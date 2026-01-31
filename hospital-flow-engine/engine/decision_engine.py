@@ -1,17 +1,19 @@
-def decide(patient, state, static, pressure):
-    reasons = []
+# engine/decision_engine.py
+
+def decide(risk_state, resource_state):
+    pressure = resource_state["pressure"]
 
     if pressure >= 0.9:
-        return "BLOCK", pressure, "Hospital at critical capacity"
+        return "BLOCK", "Hospital at critical capacity"
 
-    if patient["requires_icu"] == 1:
-        if state["icu_beds_occupied"] >= static["icu_beds_total"]:
-            return "ESCALATE", pressure, "ICU unavailable"
+    if risk_state["risk_level"] == "CRITICAL":
+        if resource_state["icu_full"]:
+            return "ESCALATE", "Critical risk but ICU unavailable"
+        return "PRIORITIZE", "Critical patient prioritized"
 
-    if pressure >= 0.75:
-        return "DELAY", pressure, "High operational pressure"
+    if risk_state["risk_level"] == "HIGH":
+        if pressure >= 0.75:
+            return "DELAY", "High risk but system overloaded"
+        return "ALLOW", "High risk, resources available"
 
-    if patient["severity_score"] >= 85 and pressure < 0.75:
-        return "ALLOW", pressure, "High severity prioritized"
-
-    return "ALLOW", pressure, "Capacity available"
+    return "OBSERVE", "Risk stable"

@@ -3,10 +3,8 @@ def compute_pressure(state_row, static_row):
     ward_ratio = state_row["ward_beds_occupied"] / static_row["ward_beds_total"]
 
     pressure = (
-        0.45 * icu_ratio +
-        0.25 * ward_ratio +
-        0.20 * state_row["staff_load"] +
-        0.10 * min(state_row["er_queue_length"] / 20, 1)
+        0.6 * icu_ratio +
+        0.4 * ward_ratio
     )
 
     return round(min(pressure, 1.0), 2)

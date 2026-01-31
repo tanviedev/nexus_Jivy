@@ -1,44 +1,160 @@
+# import pandas as pd
+
+# from engine.risk_engine import RiskAgent
+# from engine.pressure_engine import compute_pressure
+# from engine.decision_engine import decide
+# from engine.resource_model import HospitalResourceModel
+
+
+# PATIENT_ID = input("Enter patient ID to monitor (e.g., P0001): ").strip()
+
+# # -----------------------------
+# # Load datasets
+# # -----------------------------
+# # patients = pd.read_csv("data/heart_attack_temporal_5steps.csv")
+
+# # resource_model = HospitalResourceModel(
+# #     static_path="data/hospital_static_extended.csv",
+# #     state_path="data/hospital_state_extended.csv"
+# # )
+
+# # risk_agent = RiskAgent(window_size=5)
+
+
+
+# patients = pd.read_csv("data/heart_attack_temporal_5steps.csv")
+
+# # Validate patient ID
+# if PATIENT_ID not in patients["patient_id"].unique():
+#     raise ValueError(f"Patient ID {PATIENT_ID} not found in dataset.")
+
+# # Filter to single patient and sort by time
+# patients = patients[patients["patient_id"] == PATIENT_ID]
+# patients = patients.sort_values("timestamp")
+
+
+# #HOSPITAL_ID = 1  # choose a hospital to simulate
+
+# risk_agent = RiskAgent(window_size=1)
+
+# resource_model = HospitalResourceModel(
+#     static_path="data/hospital_static_extended.csv",
+#     state_path="data/hospital_state_extended.csv"
+# )
+
+# # -----------------------------
+# # Simulation loop
+# # -----------------------------
+# for _, row in patients.iterrows():
+#     patient = row.to_dict()
+
+#     print("Processing", patient["patient_id"])
+
+
+#     # ---- Risk Agent ----
+#     risk_agent.observe(patient)
+#     risk_state = risk_agent.update(patient["patient_id"])
+
+#     if risk_state is None:
+#         continue  # not enough temporal data yet
+
+#     # ---- Resource Agent ----
+#     hospital_state = resource_model.get_latest_state()
+#     hospital_static = resource_model.get_static()
+
+#     pressure = compute_pressure(hospital_state, hospital_static)
+
+#     resource_state = HospitalResourceModel.build_resource_state(
+#         hospital_state,
+#         hospital_static,
+#         pressure
+#     )
+
+#     # ---- Decision Engine ----
+#     decision, explanation = decide(risk_state, resource_state)
+
+#     print(
+#         f"[{patient['timestamp']}] "
+#         f"Patient {patient['patient_id']} | "
+#         f"Risk={risk_state['risk_level']} | "
+#         f"Decision={decision} | "
+#         f"Why={explanation}"
+#     )
+
+
+
+
+
 import pandas as pd
-from engine.resource_model import HospitalResourceModel
+
+from engine.risk_engine import RiskAgent
 from engine.pressure_engine import compute_pressure
 from engine.decision_engine import decide
+from engine.resource_model import HospitalResourceModel
 
-STATIC = "data/hospital_static.csv"
-STATE = "data/hospital_state.csv"
-PATIENTS = "data/patient_stream.csv"
 
-model = HospitalResourceModel(STATIC, STATE)
-patients = pd.read_csv(PATIENTS, parse_dates=["arrival_time"])
+PATIENT_ID = input("Enter patient ID to monitor (e.g., P0001): ").strip()
 
-decision_log = []
+# -----------------------------
+# Load datasets
+# -----------------------------
+patients = pd.read_csv("data/heart_attack_temporal_5steps.csv")
 
-for _, patient in patients.sort_values("arrival_time").iterrows():
+resource_model = HospitalResourceModel(
+    static_path="data/hospital_static_extended.csv",
+    state_path="data/hospital_state_extended.csv"
+)
 
-    # naive assignment (nearest / preferred later)
-    hospital_id = model.static.sample(1).iloc[0]["hospital_id"]
+risk_agent = RiskAgent(window_size=5)
 
-    state = model.get_latest_state(hospital_id)
-    static = model.get_static(hospital_id)
+patients = pd.read_csv("data/heart_attack_temporal_5steps.csv")
 
-    pressure = compute_pressure(state, static)
+# Validate patient ID
+if PATIENT_ID not in patients["patient_id"].unique():
+    raise ValueError(f"Patient ID {PATIENT_ID} not found in dataset.")
 
-    decision, score, reason = decide(
-        patient,
-        state,
-        static,
+# Filter to single patient and sort by time
+patients = patients[patients["patient_id"] == PATIENT_ID]
+patients = patients.sort_values("timestamp")
+
+
+#HOSPITAL_ID = 1  # choose a hospital to simulate
+
+# -----------------------------
+# Simulation loop
+# -----------------------------
+for _, row in patients.iterrows():
+    patient = row.to_dict()
+
+    print("Processing", patient["patient_id"])
+
+
+    # ---- Risk Agent ----
+    risk_agent.observe(patient)
+    risk_state = risk_agent.update(patient["patient_id"])
+
+    if risk_state is None:
+        continue  # not enough temporal data yet
+
+    # ---- Resource Agent ----
+    hospital_state = resource_model.get_latest_state()
+    hospital_static = resource_model.get_static()
+
+    pressure = compute_pressure(hospital_state, hospital_static)
+
+    resource_state = HospitalResourceModel.build_resource_state(
+        hospital_state,
+        hospital_static,
         pressure
     )
 
-    decision_log.append({
-        "timestamp": patient["arrival_time"],
-        "patient_id": patient["patient_id"],
-        "hospital_id": hospital_id,
-        "decision": decision,
-        "pressure_score": score,
-        "reason": reason
-    })
+    # ---- Decision Engine ----
+    decision, explanation = decide(risk_state, resource_state)
 
-df = pd.DataFrame(decision_log)
-df.to_csv("data/decision_log.csv", index=False)
-
-print("Simulation complete.")
+    print(
+        f"[{patient['timestamp']}] "
+        f"Patient {patient['patient_id']} | "
+        f"Risk={risk_state['risk_level']} | "
+        f"Decision={decision} | "
+        f"Why={explanation}"
+    )
