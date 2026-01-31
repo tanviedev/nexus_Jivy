@@ -1,0 +1,470 @@
+name,lat,long,facility_type,ownership,emergency_beds_x,ambulance_available_x,emergency_beds_y,ambulance_available_y,hospital_id,icu_beds_total,ward_beds_total,icu_beds_occupied,ward_beds_occupied,staff_load_index,er_queue_length,icu_accepting,ward_accepting,timestamp,icu_occupancy_ratio,hospital_pressure_index,critical_load_flag
+Bharti Homeopathic Hospitalnan,18.4588916,73.85680646,private hospital,Private,,,,,HOSP_000,11,32,8,15,0.63,5,Yes,Yes,2026-01-31 07:22:46.302926,0.73,0.57,False
+Bharti Hospitalnan,18.4589235,73.85678324,private hospital,Private,,,,,HOSP_001,24,78,18,39,0.93,18,Yes,Yes,2026-01-31 07:49:46.302926,0.75,0.73,False
+Bharti Ayurved Hospitalnan,18.4589627,73.85625754,private hospital,Private,,,,,HOSP_002,19,38,14,16,0.8,12,Yes,Yes,2026-01-31 06:23:46.302926,0.74,0.66,False
+Yugpurush Raja Shiv Chatrapati Bibvewadi (Appar) Pune manapa,18.461404,73.868892,Government hospital(PMC),Government,,,,,HOSP_003,15,68,12,32,0.83,29,Yes,Yes,2026-01-31 06:33:46.302926,0.8,0.76,False
+Trimurti Hospital,18.4621095,73.81491098,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_004,12,31,9,19,0.91,20,Yes,Yes,2026-01-31 06:41:46.302926,0.75,0.73,False
+Eye Clinic,18.4622284,73.8927897,private clinic,Private,,,,,HOSP_005,11,80,8,53,0.71,7,Yes,Yes,2026-01-31 06:29:46.302926,0.73,0.61,False
+Adate General Hospital,18.4627945,73.81436613,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_006,23,38,18,15,0.74,5,Yes,Yes,2026-01-31 06:05:46.302926,0.78,0.63,False
+Sidhhi Hospital Laproscopy Center,18.4642915,73.85931902,private hospital,Private,,,,,HOSP_007,15,95,11,75,0.86,28,Yes,Yes,2026-01-31 07:42:46.302926,0.73,0.74,False
+Rakshak Multi Specility Hospital,18.4643487,73.81532899,private hospital,Private,,,,,HOSP_008,15,28,13,15,1.04,49,Yes,Yes,2026-01-31 07:32:46.302926,0.87,0.94,True
+rejuva skin clinic,18.465353,73.816526,private clinic,Private,,,,,HOSP_009,8,90,4,77,0.86,28,Yes,Yes,2026-01-31 06:05:46.302926,0.5,0.62,False
+Chaitanya Nursing Homenan,18.4653789,73.85251713,private hospital,Private,,,,,HOSP_010,12,47,10,41,0.8,6,Yes,Yes,2026-01-31 06:09:46.302926,0.83,0.68,False
+Anand Hospitalnan,18.4654492,73.85057513,private hospital,Private,,,,,HOSP_011,7,97,5,47,0.83,26,Yes,Yes,2026-01-31 09:00:46.302926,0.71,0.71,False
+Modi Clinicnan,18.4654574,73.85641785,private hospital,Private,,,,,HOSP_012,6,71,5,44,0.74,3,Yes,Yes,2026-01-31 06:49:46.302926,0.83,0.65,False
+Pawar Hospital,18.465905,73.86010142,private hospital,Private,,,,,HOSP_013,16,35,13,14,0.68,9,Yes,Yes,2026-01-31 07:15:46.302926,0.81,0.64,False
+Chordiya Nursing Home,18.466031,73.86396181,private hospital,Private,,,,,HOSP_014,10,88,9,61,1.06,38,Yes,Yes,2026-01-31 06:21:46.302926,0.9,0.92,True
+Disha Nursing Homenan,18.4663047,73.85234715,private hospital,Private,,,,,HOSP_015,6,31,5,21,0.78,5,Yes,Yes,2026-01-31 08:16:46.302926,0.83,0.67,False
+Sharad Hospital,18.4684337,73.81891139,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_016,5,44,3,23,0.67,14,Yes,Yes,2026-01-31 07:51:46.302926,0.6,0.56,False
+Sarwat Hospital,18.4704972,73.88780422,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_017,16,71,11,48,0.95,27,Yes,Yes,2026-01-31 07:52:46.302926,0.69,0.74,False
+Satyanand  Hospital,18.4707934,73.88868992,private hospital,Private,,,,,HOSP_018,16,72,12,36,0.93,29,Yes,Yes,2026-01-31 07:08:46.302926,0.75,0.77,False
+Unity Ortho & Eyes Hospital,18.4712384,73.85746393,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_019,21,42,15,20,0.93,32,Yes,Yes,2026-01-31 06:11:46.302926,0.71,0.76,False
+Anand Hospital,18.4713277,73.86397524,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_020,14,35,11,25,0.75,5,Yes,Yes,2026-01-31 07:43:46.302926,0.79,0.64,False
+Pbmas H.V.Desai Hospital,18.4723273,73.9238448,private hospital,Private,,,,,HOSP_021,20,76,19,42,0.8,3,Yes,Yes,2026-01-31 07:43:46.302926,0.95,0.73,False
+Wadekar Nursing Home (MaternityHome & Dispensary),18.472983,73.81941069,private hospital,Private,,,,,HOSP_022,19,58,12,40,0.7,8,Yes,Yes,2026-01-31 07:11:46.302926,0.63,0.56,False
+Dr. Bhagli Nursing Home,18.4746086,73.85792077,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_023,19,72,12,44,0.68,13,Yes,Yes,2026-01-31 07:28:46.302926,0.63,0.57,False
+Dr. Bhagli Clinic,18.4746388,73.85791895,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_024,23,61,16,54,0.94,16,Yes,Yes,2026-01-31 07:52:46.302926,0.7,0.7,False
+Parasnis Hospital,18.4746652,73.85874774,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_025,16,77,14,36,1.09,53,Yes,Yes,2026-01-31 06:37:46.302926,0.88,0.98,True
+Shubham Skin Clinic,18.4747751,73.814956,private clinic,Private,,,,,HOSP_026,24,58,20,36,1.01,43,Yes,Yes,2026-01-31 08:01:46.302926,0.83,0.89,True
+Chintamani Hospital,18.4757006,73.86208654,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_027,7,33,4,24,0.97,20,Yes,Yes,2026-01-31 08:26:46.302926,0.57,0.66,False
+Chintamani Hospital,18.4757006,73.86208654,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_028,9,24,8,14,0.87,28,Yes,Yes,2026-01-31 07:57:46.302926,0.89,0.82,False
+Chintamani Hospital,18.4757006,73.86208654,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_029,23,54,21,47,1.0,18,Yes,Yes,2026-01-31 07:55:46.302926,0.91,0.83,False
+Chintamani Hospital,18.4757006,73.86208654,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_030,11,94,6,71,0.74,7,Yes,Yes,2026-01-31 08:51:46.302926,0.55,0.52,False
+Late. Minatai Thakare Maternity Home,18.475892,73.889505,Government hospital(PMC),Government,,,,,HOSP_031,13,37,11,26,0.92,22,Yes,Yes,2026-01-31 06:09:46.302926,0.85,0.79,False
+Late. Shivshankar Pote Dawakhana,18.4765,73.856033,Government hospital(PMC),Government,,,,,HOSP_032,11,95,9,73,0.89,17,Yes,Yes,2026-01-31 08:33:46.302926,0.82,0.75,False
+Sangam Hospital,18.4765191,73.85750876,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_033,22,28,16,24,0.71,5,Yes,Yes,2026-01-31 07:10:46.302926,0.73,0.6,False
+"Sahydri Hospital Ltd. SahyadriHospital, Bibvewadi",18.4768711,73.8625507,private hospital,Private,,,,,HOSP_034,8,93,5,79,0.78,13,Yes,Yes,2026-01-31 08:42:46.302926,0.62,0.6,False
+Dr.Karne Women's Clinic,18.477408,73.818996,private clinic,Private,,,,,HOSP_035,18,77,11,58,1.07,49,Yes,Yes,2026-01-31 07:31:46.302926,0.61,0.82,False
+Jagtap Hospital,18.4774274,73.82381146,private hospital,Private,N.A.,YES,N.A.,YES,HOSP_036,22,36,14,27,0.72,3,Yes,Yes,2026-01-31 06:13:46.302926,0.64,0.55,False
+Physiotherapy Clinic Pune NIBM,18.4775269,73.9015156,private clinic,Private,,,,,HOSP_037,13,26,12,12,0.74,11,Yes,Yes,2026-01-31 07:57:46.302926,0.92,0.73,False
+Pharande Eye Hospital & PhacoCenter,18.4777778,73.82399111,private hospital,Private,,,,,HOSP_038,6,65,5,29,0.86,22,Yes,Yes,2026-01-31 08:10:46.302926,0.83,0.76,False
+Pune Center Of Homoeopathy Dr.Upasani's clinic,18.4787696,73.8966072,private clinic,Private,,,,,HOSP_039,24,32,15,21,0.98,28,Yes,Yes,2026-01-31 06:46:46.302926,0.62,0.72,False
+Dr.Chavan Clinic,18.478815,73.824445,private clinic,Private,,,,,HOSP_040,19,59,13,24,0.9,20,Yes,Yes,2026-01-31 08:22:46.302926,0.68,0.69,False
+Madhukar General Hospital,18.4788986,73.82411119,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_041,11,61,7,39,0.93,30,Yes,Yes,2026-01-31 08:00:46.302926,0.64,0.72,False
+Patil Hospital,18.4791546,73.82480223,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_042,16,28,10,14,0.68,11,Yes,Yes,2026-01-31 06:58:46.302926,0.62,0.56,False
+Patil Hospital,18.4791546,73.82480223,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_043,12,69,11,39,0.98,33,Yes,Yes,2026-01-31 08:43:46.302926,0.92,0.89,True
+Patil Hospital,18.4791546,73.82480223,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_044,19,46,13,36,0.77,5,Yes,Yes,2026-01-31 06:15:46.302926,0.68,0.59,False
+Patil Hospital,18.4791546,73.82480223,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_045,7,85,5,74,1.03,32,Yes,Yes,2026-01-31 06:32:46.302926,0.71,0.79,False
+"Apollo Clinic - Wanowrie, Pune",18.4793626,73.8960878,private clinic,Private,,,,,HOSP_046,18,24,12,10,0.91,24,Yes,Yes,2026-01-31 08:29:46.302926,0.67,0.7,False
+Ashirwad Hospital,18.4797357,73.82834751,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_047,21,48,17,32,0.74,5,Yes,Yes,2026-01-31 08:34:46.302926,0.81,0.65,False
+Sadguru Nursing Home,18.480586,73.82951492,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_048,8,56,6,47,0.66,11,Yes,Yes,2026-01-31 08:07:46.302926,0.75,0.62,False
+Sparsh Skin & ENT Clinic,18.4807271,73.8258652,private clinic,Private,,,,,HOSP_049,22,57,19,25,0.68,14,Yes,Yes,2026-01-31 08:17:46.302926,0.86,0.69,False
+Bhaktiii Group of Homoeopathy Dispensaries,18.4809111,73.8744782,Dispensary,Government,,,,,HOSP_050,12,27,8,21,0.79,6,Yes,Yes,2026-01-31 06:21:46.302926,0.67,0.6,False
+Arcus Clinic,18.4811863,73.9033259,private clinic,Private,,,,,HOSP_051,8,84,7,48,0.8,9,Yes,Yes,2026-01-31 08:45:46.302926,0.88,0.72,False
+Prarthna Clinic,18.4817829,73.8990373,private clinic,Private,,,,,HOSP_052,6,36,5,20,0.97,28,Yes,Yes,2026-01-31 07:10:46.302926,0.83,0.82,False
+INAMDAR MULTISPECIALITY HOSPITAL,18.481893,73.891875,Dispensary,Government,,,,,HOSP_053,10,90,6,79,0.83,23,Yes,Yes,2026-01-31 08:56:46.302926,0.6,0.64,False
+"Late. Prathak Barate Dawakhana, Warje Malwadi",18.4835225,73.79259612,Government hospital(PMC),Government,,,,,HOSP_054,14,64,10,32,0.75,13,Yes,Yes,2026-01-31 08:38:46.302926,0.71,0.63,False
+Psychiatrist in Pune - The Rational Psychiatrist Dr Manish Bajpayee,18.483929,73.889862,private clinic,Private,,,,,HOSP_055,8,23,7,17,0.74,14,Yes,Yes,2026-01-31 07:11:46.302926,0.88,0.72,False
+Rao Nursing Home,18.4846951,73.85879594,private hospital,Private,,,,,HOSP_056,22,55,21,44,0.75,9,Yes,Yes,2026-01-31 07:53:46.302926,0.95,0.74,False
+Kilbil Clinic,18.485132,73.8110948,private clinic,Private,,,,,HOSP_057,16,89,12,37,1.06,54,Yes,Yes,2026-01-31 08:34:46.302926,0.75,0.91,True
+Lata Mangeshkar MedicalFoundation's Mai Mangeshkar Hospital,18.4851605,73.79978785,private hospital,Private,,,,,HOSP_058,6,50,4,36,0.72,14,Yes,Yes,2026-01-31 06:49:46.302926,0.67,0.61,False
+Grant Medical Foundetion Ruby HollClinic- Wanovari,18.4853169,73.90486796,private hospital,Private,,,,,HOSP_059,14,38,13,33,1.0,33,Yes,Yes,2026-01-31 07:57:46.302926,0.93,0.9,True
+"PMC Dawakhana, Pune",18.485521,73.899035,Government hospital(PMC),Government,,,,,HOSP_060,8,80,6,36,1.03,44,Yes,Yes,2026-01-31 07:59:46.302926,0.75,0.86,True
+Vinayak Hospital,18.4856366,73.79677714,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_061,18,73,11,61,0.89,34,Yes,Yes,2026-01-31 08:28:46.302926,0.61,0.71,False
+Vinayak Hospital,18.4856366,73.79677714,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_062,20,58,19,40,1.11,43,No,Yes,2026-01-31 08:39:46.302926,0.95,0.98,True
+Vinayak Hospital,18.4856366,73.79677714,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_063,19,93,13,65,0.8,10,Yes,Yes,2026-01-31 08:27:46.302926,0.68,0.62,False
+Vinayak Hospital,18.4856366,73.79677714,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_064,12,38,9,26,1.1,35,Yes,Yes,2026-01-31 09:03:46.302926,0.75,0.85,False
+Walimbe Eye Clinic,18.4858978,73.8536858,private clinic,Private,N.A.,N.A.,N.A.,N.A.,HOSP_065,18,58,11,31,0.65,7,Yes,Yes,2026-01-31 06:41:46.302926,0.61,0.53,False
+"Neuro Psychiatry Clinic, Pune",18.486128,73.796409,private clinic,Private,,,,,HOSP_066,12,86,7,74,0.63,6,Yes,Yes,2026-01-31 08:27:46.302926,0.58,0.5,False
+Navjeevan Nursing Home,18.4862815,73.93103888,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_067,20,64,14,55,0.94,22,Yes,Yes,2026-01-31 06:43:46.302926,0.7,0.72,False
+Navjeevan Nursing Home,18.4862815,73.93103888,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_068,17,32,15,22,1.14,46,No,Yes,2026-01-31 06:48:46.302926,0.88,0.97,True
+Navjeevan Nursing Home,18.4862815,73.93103888,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_069,22,77,15,60,1.01,59,Yes,Yes,2026-01-31 06:51:46.302926,0.68,0.88,True
+Navjeevan Nursing Home,18.4862815,73.93103888,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_070,19,39,13,27,0.64,11,Yes,Yes,2026-01-31 06:56:46.302926,0.68,0.58,False
+Kothari Hospitalnan,18.4868036,73.85720785,private hospital,Private,,,,,HOSP_071,17,91,11,58,0.73,3,Yes,Yes,2026-01-31 06:57:46.302926,0.65,0.56,False
+"ASHA SKIN, HAIR & LASER CLINIC",18.486955,73.812883,private clinic,Private,,,,,HOSP_072,13,80,10,58,1.1,53,Yes,Yes,2026-01-31 09:03:46.302926,0.77,0.93,True
+Late. Vijayabai Shirke Aarogya Kendra,18.487103,73.815248,Government hospital(PMC),Government,,,,,HOSP_073,19,58,18,39,0.81,34,Yes,Yes,2026-01-31 06:20:46.302926,0.95,0.85,False
+Dr. Vaijayanti V. Bodas,18.488712,73.856945,private clinic,Private,,,,,HOSP_074,17,20,13,13,1.02,54,Yes,Yes,2026-01-31 08:29:46.302926,0.76,0.9,True
+Late. Arvind Ganpat Bartakke Dawakhana,18.488853,73.795542,Government hospital(PMC),Government,,,,,HOSP_075,5,22,4,17,1.05,43,Yes,Yes,2026-01-31 07:20:46.302926,0.8,0.89,True
+Zanwar Eye Hospitalnan,18.4890425,73.85703449,private hospital,Private,,,,,HOSP_076,11,96,10,61,0.92,25,Yes,Yes,2026-01-31 08:41:46.302926,0.91,0.83,False
+Mother Hope Fertility Clinic,18.4890457,73.8570426,private clinic,Private,,,,,HOSP_077,13,81,10,34,0.82,17,Yes,Yes,2026-01-31 08:55:46.302926,0.77,0.7,False
+Mother Home Fartility Clinicnan,18.4891233,73.85703134,private hospital,Private,,,,,HOSP_078,5,82,3,39,0.81,23,Yes,Yes,2026-01-31 08:30:46.302926,0.6,0.63,False
+Kamla Nursing Home,18.4892497,73.86224102,private hospital,Private,,,,,HOSP_079,16,44,11,27,0.72,13,Yes,Yes,2026-01-31 06:10:46.302926,0.69,0.61,False
+NANDINI CLINIC,18.489529,73.899958,private clinic,Private,,,,,HOSP_080,12,75,8,57,1.04,43,Yes,Yes,2026-01-31 06:56:46.302926,0.67,0.82,False
+"Nuleaf Hair Transplant Centre, Pune",18.489545,73.857339,private clinic,Private,,,,,HOSP_081,15,52,11,36,0.85,23,Yes,Yes,2026-01-31 09:00:46.302926,0.73,0.71,False
+Yashshree Maternity & Nursing Homenan,18.4898166,73.85004897,private hospital,Private,,,,,HOSP_082,23,57,17,41,1.06,33,Yes,Yes,2026-01-31 06:26:46.302926,0.74,0.82,False
+Dr. Bande Hospital,18.4902514,73.8579388,private hospital,Private,,,,,HOSP_083,21,25,19,15,0.72,13,Yes,Yes,2026-01-31 07:22:46.302926,0.9,0.72,False
+Dugad Hospital,18.4910595,73.8581677,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_084,12,77,8,54,1.09,33,Yes,Yes,2026-01-31 07:49:46.302926,0.67,0.79,False
+Express Clinics Pvt Ltd,18.492305,73.856747,private clinic,Private,,,,,HOSP_085,7,63,5,35,0.84,22,Yes,Yes,2026-01-31 07:25:46.302926,0.71,0.7,False
+Late. Indumati Manilal Khanna Dawakhana,18.492471,73.866599,Government hospital(PMC),Government,,,,,HOSP_086,7,64,5,40,0.64,4,Yes,Yes,2026-01-31 07:52:46.302926,0.71,0.56,False
+Aadhar Hospitalnan,18.4935942,73.85034467,private hospital,Private,,,,,HOSP_087,5,51,3,39,0.6,11,Yes,Yes,2026-01-31 09:01:46.302926,0.6,0.52,False
+Ivory Dental Clinic,18.493721,73.933122,private clinic,Private,,,,,HOSP_088,9,64,8,53,1.04,58,Yes,Yes,2026-01-31 06:42:46.302926,0.89,0.99,True
+I - Care Clinic,18.4942611,73.8999457,private clinic,Private,,,,,HOSP_089,14,80,11,49,0.97,28,Yes,Yes,2026-01-31 06:11:46.302926,0.79,0.8,False
+Skin City,18.494578,73.836122,private clinic,Private,,,,,HOSP_090,11,66,7,27,0.99,23,Yes,Yes,2026-01-31 08:30:46.302926,0.64,0.71,False
+Janani Nursing Home,18.4947657,73.81356017,private hospital,Private,,,,,HOSP_091,13,40,11,19,0.71,10,Yes,Yes,2026-01-31 08:19:46.302926,0.85,0.68,False
+Shashwat Health Pvt.Ltd ShashwatHospital.,18.4948393,73.81359283,private hospital,Private,,,,,HOSP_092,11,99,8,40,0.64,9,Yes,Yes,2026-01-31 08:03:46.302926,0.73,0.59,False
+"Ranka Medical Foundetion, RankaHospital",18.494933,73.86184047,private hospital,Private,,,,,HOSP_093,13,94,10,68,0.89,30,Yes,Yes,2026-01-31 07:41:46.302926,0.77,0.77,False
+Devyani Multy Speciality Hospital,18.4949895,73.81212228,private hospital,Private,N.A.,YES,N.A.,YES,HOSP_094,12,55,9,31,0.82,31,Yes,Yes,2026-01-31 07:01:46.302926,0.75,0.74,False
+Rukhmini Hospital,18.4950028,73.86184672,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_095,16,38,12,25,0.86,30,Yes,Yes,2026-01-31 07:22:46.302926,0.75,0.75,False
+Dr Rane's Dispensary,18.495178,73.8127564,Dispensary,Government,,,,,HOSP_096,6,39,5,25,1.15,59,No,Yes,2026-01-31 08:48:46.302926,0.83,1.0,True
+Karne Hospital Pvt. Ltd. OrthopedicNursing Home,18.4957009,73.85831637,private hospital,Private,,,,,HOSP_097,5,76,3,33,1.07,41,Yes,Yes,2026-01-31 07:58:46.302926,0.6,0.78,False
+Devyani Hospital Surguri Maternity & General Nursing Home,18.4959252,73.81222704,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_098,20,37,14,22,1.08,32,Yes,Yes,2026-01-31 06:16:46.302926,0.7,0.8,False
+Lokmanya Hospital Pvt. Ltd.,18.4959852,73.85427766,private hospital,Private,,,,,HOSP_099,9,66,5,33,0.96,25,Yes,Yes,2026-01-31 06:39:46.302926,0.56,0.67,False
+Bharatratna Dr. Babasaheb Ambedkar Dawakhana,18.496225,73.870225,Government hospital(PMC),Government,,,,,HOSP_100,7,68,6,41,0.83,28,Yes,Yes,2026-01-31 07:05:46.302926,0.86,0.79,False
+Date Hospitalnan,18.4962318,73.85374921,private hospital,Private,,,,,HOSP_101,16,33,11,16,0.81,32,Yes,Yes,2026-01-31 06:22:46.302926,0.69,0.72,False
+Bindu Madhav Thakare Dawakhana,18.496497,73.816307,Government hospital(PMC),Government,,,,,HOSP_102,12,34,11,27,0.95,19,Yes,Yes,2026-01-31 07:00:46.302926,0.92,0.82,False
+Ent Hospitalnan,18.4965233,73.85438072,private hospital,Private,,,,,HOSP_103,7,50,5,24,1.03,45,Yes,Yes,2026-01-31 06:40:46.302926,0.71,0.84,False
+"Dental Sphere: Best Dentist in Pune, Dental Clinic in Mukund Nagar, Swargate, Pu",18.49674,73.86376,private clinic,Private,,,,,HOSP_104,5,20,4,17,0.67,6,Yes,Yes,2026-01-31 07:22:46.302926,0.8,0.62,False
+Yashwant Eye Clinic & Hospitalnan,18.4968902,73.85448405,private hospital,Private,,,,,HOSP_105,7,73,6,44,0.87,19,Yes,Yes,2026-01-31 07:58:46.302926,0.86,0.77,False
+Rajamata Jijau Maternity Home,18.4972131,73.8550317,Government hospital(PMC),Government,,,,,HOSP_106,9,22,8,18,0.71,5,Yes,Yes,2026-01-31 08:51:46.302926,0.89,0.68,False
+Late. Namdevrao Shivarkar Maternity Home,18.497237,73.89985,Government hospital(PMC),Government,,,,,HOSP_107,19,35,17,25,0.93,26,Yes,Yes,2026-01-31 07:13:46.302926,0.89,0.83,False
+Dr. Tekawade Eye Clinic & Laser Centre,18.497339,73.858213,private clinic,Private,,,,,HOSP_108,18,76,13,58,1.07,30,Yes,Yes,2026-01-31 06:25:46.302926,0.72,0.8,False
+"Hindu Ruday Samrat, Shivsena Pramukh, Balasheb Thakre Dawakhana",18.497456,73.853928,Government hospital(PMC),Government,,,,,HOSP_109,7,94,5,73,1.01,50,Yes,Yes,2026-01-31 08:30:46.302926,0.71,0.86,True
+Dr. Purohit Maternity Hospitalnan,18.497601,73.85210745,private hospital,Private,,,,,HOSP_110,5,31,3,20,0.69,11,Yes,Yes,2026-01-31 08:25:46.302926,0.6,0.55,False
+Shahade Hospitalnan,18.4980417,73.85384566,private hospital,Private,,,,,HOSP_111,9,93,6,62,1.09,58,Yes,Yes,2026-01-31 06:48:46.302926,0.67,0.89,True
+Parvati General Hospitalnan,18.4983245,73.85055828,private hospital,Private,,,,,HOSP_112,18,35,14,22,0.97,23,Yes,Yes,2026-01-31 07:04:46.302926,0.78,0.77,False
+Homoeopathic Dispensary,18.49894,73.804159,Dispensary,Government,,,,,HOSP_113,11,91,9,63,0.65,6,Yes,Yes,2026-01-31 06:58:46.302926,0.82,0.63,False
+Mehta Nursing Home,18.4991081,73.86918789,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_114,13,95,9,39,0.74,5,Yes,Yes,2026-01-31 08:09:46.302926,0.69,0.59,False
+Suyash Hospityal,18.5000925,73.81233642,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_115,19,43,15,25,0.77,3,Yes,Yes,2026-01-31 08:37:46.302926,0.79,0.64,False
+Harjeevan Hospitalnan,18.5001426,73.85408736,private hospital,Private,,,,,HOSP_116,19,47,18,33,0.72,4,Yes,Yes,2026-01-31 07:06:46.302926,0.95,0.71,False
+Dr.Patankar Medical Foundetion &Patankar Hospital Pvt. Ltd.,18.5003435,73.85430306,private hospital,Private,,,,,HOSP_117,14,27,11,18,1.12,53,No,Yes,2026-01-31 08:11:46.302926,0.79,0.94,True
+Parvati General Hospital,18.5007037,73.84619906,private hospital,Private,,,,,HOSP_118,17,55,15,43,0.9,15,Yes,Yes,2026-01-31 08:25:46.302926,0.88,0.77,False
+Prabhudesai Eye Clinic,18.5008587,73.8203059,private clinic,Private,N.A.,N.A.,N.A.,N.A.,HOSP_119,23,27,21,19,1.12,37,No,Yes,2026-01-31 07:59:46.302926,0.91,0.94,True
+Prabhudesai Eye Clinic,18.5008587,73.8203059,private clinic,Private,N.A.,N.A.,N.A.,N.A.,HOSP_120,11,77,10,68,0.83,27,Yes,Yes,2026-01-31 06:39:46.302926,0.91,0.81,False
+Prabhudesai Eye Clinic,18.5008587,73.8203059,private clinic,Private,N.A.,N.A.,N.A.,N.A.,HOSP_121,21,79,17,42,0.71,9,Yes,Yes,2026-01-31 06:26:46.302926,0.81,0.65,False
+Prabhudesai Eye Clinic,18.5008587,73.8203059,private clinic,Private,N.A.,N.A.,N.A.,N.A.,HOSP_122,24,69,22,39,0.91,29,Yes,Yes,2026-01-31 08:51:46.302926,0.92,0.85,False
+"ADVANCED STROKE & PARALYSIS CLINIC, Pune Specialist Doctor . India",18.500897,73.845902,private clinic,Private,,,,,HOSP_123,8,47,7,27,0.72,10,Yes,Yes,2026-01-31 08:43:46.302926,0.88,0.7,False
+Dr. Karawa Hospital MaternitySurgical & General Hospital,18.5009427,73.84611344,private hospital,Private,,,,,HOSP_124,9,60,8,37,0.91,26,Yes,Yes,2026-01-31 06:37:46.302926,0.89,0.82,False
+Prabhu Desai Eye Clinic,18.5009612,73.82031088,private hospital,Private,,,,,HOSP_125,11,83,7,67,1.05,51,Yes,Yes,2026-01-31 08:11:46.302926,0.64,0.84,False
+Tanmay Nursing Home,18.5009897,73.94295797,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_126,17,46,12,23,0.87,26,Yes,Yes,2026-01-31 08:45:46.302926,0.71,0.72,False
+Sanjeevani Nursing Home,18.5011756,73.94093173,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_127,19,82,13,64,0.91,28,Yes,Yes,2026-01-31 08:07:46.302926,0.68,0.72,False
+Sanjeevani Nursing Home,18.5011756,73.94093173,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_128,15,36,9,21,0.66,11,Yes,Yes,2026-01-31 08:39:46.302926,0.6,0.54,False
+Sanjeevani Nursing Home,18.5011756,73.94093173,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_129,8,92,6,64,0.65,5,Yes,Yes,2026-01-31 08:33:46.302926,0.75,0.59,False
+Sanjeevani Nursing Home,18.5011756,73.94093173,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_130,17,52,15,37,0.72,12,Yes,Yes,2026-01-31 07:43:46.302926,0.88,0.7,False
+Sharada Clinic,18.5012305,73.86635352,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_131,11,96,10,56,0.97,34,Yes,Yes,2026-01-31 08:41:46.302926,0.91,0.88,True
+Ratnadeep  Hospital,18.5012793,73.93719252,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_132,23,48,14,31,0.63,8,Yes,Yes,2026-01-31 08:32:46.302926,0.61,0.53,False
+Tupe Hospital,18.5013038,73.93644002,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_133,6,32,5,19,0.84,22,Yes,Yes,2026-01-31 07:50:46.302926,0.83,0.76,False
+Colony Nursing Homenan,18.5014524,73.84781933,private hospital,Private,,,,,HOSP_134,14,65,12,28,0.93,33,Yes,Yes,2026-01-31 08:54:46.302926,0.86,0.84,False
+Hand Surgery Clinics,18.5015692,73.8252926,private clinic,Private,,,,,HOSP_135,17,54,14,33,0.84,20,Yes,Yes,2026-01-31 08:10:46.302926,0.82,0.74,False
+Usha Kiran Hospital,18.501784,73.93494269,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_136,10,25,9,11,0.75,6,Yes,Yes,2026-01-31 08:12:46.302926,0.9,0.7,False
+Aliance Munot Hospital,18.501787,73.86921741,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_137,16,88,13,53,0.78,11,Yes,Yes,2026-01-31 06:36:46.302926,0.81,0.68,False
+Zanzurne Accident Hospital,18.5018891,73.93301485,private hospital,Private,,,,,HOSP_138,16,66,11,45,1.07,58,Yes,Yes,2026-01-31 06:24:46.302926,0.69,0.9,True
+Deenannath Mangeshkar Hospital,18.5019056,73.83313987,private hospital,Private,N.A.,YES,N.A.,YES,HOSP_139,24,44,22,30,1.01,48,Yes,Yes,2026-01-31 07:10:46.302926,0.92,0.96,True
+Chavan Nursing Homenan,18.5019594,73.85852748,private hospital,Private,,,,,HOSP_140,15,85,11,62,0.87,18,Yes,Yes,2026-01-31 08:50:46.302926,0.73,0.7,False
+Alatkar Hospital,18.5019906,73.93256001,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_141,11,29,6,12,0.57,9,Yes,Yes,2026-01-31 06:06:46.302926,0.55,0.48,False
+Alatkar Hospital,18.5019906,73.93256001,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_142,5,75,4,54,1.14,36,No,Yes,2026-01-31 06:28:46.302926,0.8,0.89,True
+Alatkar Hospital,18.5019906,73.93256001,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_143,5,49,3,27,0.92,18,Yes,Yes,2026-01-31 07:14:46.302926,0.6,0.65,False
+Alatkar Hospital,18.5019906,73.93256001,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_144,24,24,21,14,0.82,26,Yes,Yes,2026-01-31 08:11:46.302926,0.88,0.79,False
+Sawan Kirpal Ruhani Mission (SKRM) - Kirpal Ashram,18.502222,73.865461,Dispensary,Government,,,,,HOSP_145,17,52,12,43,1.05,42,Yes,Yes,2026-01-31 06:32:46.302926,0.71,0.84,False
+Meera Hospital,18.502236,73.8747181,private hospital,Private,,,,,HOSP_146,13,84,12,33,0.81,17,Yes,Yes,2026-01-31 07:45:46.302926,0.92,0.77,False
+Cyber Allergy Clinic,18.5022966,73.8583978,private clinic,Private,,,,,HOSP_147,7,37,4,25,0.84,26,Yes,Yes,2026-01-31 08:42:46.302926,0.57,0.64,False
+Skin specialist in Pune kothrud clinic,18.502302,73.815879,private clinic,Private,,,,,HOSP_148,11,68,10,47,0.99,16,Yes,Yes,2026-01-31 08:34:46.302926,0.91,0.82,False
+Physiotherapy Clinic,18.502308,73.929879,private clinic,Private,,,,,HOSP_149,10,30,9,17,0.78,10,Yes,Yes,2026-01-31 09:00:46.302926,0.9,0.72,False
+Late. Anandibai Narhar Gadgil Dawakhana,18.502322,73.838387,Government hospital(PMC),Government,,,,,HOSP_150,12,45,7,23,1.06,31,Yes,Yes,2026-01-31 08:05:46.302926,0.58,0.73,False
+Gokhale Hospitalnan,18.5023373,73.8568698,private hospital,Private,,,,,HOSP_151,13,82,10,42,1.0,23,Yes,Yes,2026-01-31 08:56:46.302926,0.77,0.78,False
+Dr. Purandare Maternity Homenan,18.5023695,73.85865433,private hospital,Private,,,,,HOSP_152,9,78,8,65,0.95,15,Yes,Yes,2026-01-31 08:52:46.302926,0.89,0.79,False
+Z Plus Accident Hospital & NursingHome,18.5023763,73.93290466,private hospital,Private,,,,,HOSP_153,5,46,3,28,0.67,10,Yes,Yes,2026-01-31 07:05:46.302926,0.6,0.54,False
+Health Point Polyclinic,18.5024366,73.8096192,private clinic,Private,,,,,HOSP_154,23,68,15,38,0.62,9,Yes,Yes,2026-01-31 06:25:46.302926,0.65,0.55,False
+Lotus Hospital,18.5025203,73.93369804,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_155,14,96,11,59,0.8,8,Yes,Yes,2026-01-31 08:30:46.302926,0.79,0.67,False
+Dr Batra's,18.5026095,73.8170481,private clinic,Private,,,,,HOSP_156,16,52,12,38,1.0,20,Yes,Yes,2026-01-31 07:42:46.302926,0.75,0.76,False
+Nadkarni Clinic,18.502818,73.828832,private clinic,Private,,,,,HOSP_157,19,20,17,9,0.8,8,Yes,Yes,2026-01-31 07:26:46.302926,0.89,0.72,False
+"Sahyadri Hospital Ltd, Hadapsar.",18.5028683,73.92779919,private hospital,Private,,,,,HOSP_158,13,40,11,24,0.92,32,Yes,Yes,2026-01-31 06:57:46.302926,0.85,0.83,False
+Late. Matoshri Ramabai Ambedkar Maternity Home,18.50291,73.850023,Government hospital(PMC),Government,,,,,HOSP_159,24,74,18,51,0.99,31,Yes,Yes,2026-01-31 07:49:46.302926,0.75,0.8,False
+Apolo Speciality Hospitals Pvt. Ltd.,18.5029266,73.85210357,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_160,21,25,14,21,0.65,14,Yes,Yes,2026-01-31 07:19:46.302926,0.67,0.59,False
+Nova Pluse Ivf Clinic Pvt. Ltd.,18.5029712,73.8521089,private hospital,Private,,,,,HOSP_161,21,88,18,46,1.0,20,Yes,Yes,2026-01-31 08:15:46.302926,0.86,0.81,False
+Pune Dental Clinic,18.5030247,73.8632659,private clinic,Private,,,,,HOSP_162,24,24,18,13,0.67,12,Yes,Yes,2026-01-31 07:45:46.302926,0.75,0.62,False
+"Nova IVI Fertility Clinic Pune, Maharastra",18.5030333,73.8520671,private clinic,Private,,,,,HOSP_163,16,22,10,12,1.07,56,Yes,Yes,2026-01-31 07:31:46.302926,0.62,0.86,True
+Late. Annasaheb Magar Maternity Home,18.503093,73.92653,Government hospital(PMC),Government,,,,,HOSP_164,11,72,10,50,0.92,22,Yes,Yes,2026-01-31 06:30:46.302926,0.91,0.82,False
+Smile N Shine,18.503152,73.819539,private clinic,Private,,,,,HOSP_165,6,42,5,24,0.73,5,Yes,Yes,2026-01-31 08:46:46.302926,0.83,0.65,False
+Inamdar Hospital ( C.I.M.E.T.),18.5031819,73.90010216,private hospital,Private,,,,,HOSP_166,7,72,6,48,0.83,24,Yes,Yes,2026-01-31 07:28:46.302926,0.86,0.77,False
+Nobel  Hospital,18.5033274,73.92731848,private hospital,Private,N.A.,YES,N.A.,YES,HOSP_167,21,56,19,44,0.88,15,Yes,Yes,2026-01-31 08:26:46.302926,0.9,0.77,False
+Surgical Nursing Homenan,18.5034406,73.85222131,private hospital,Private,,,,,HOSP_168,9,93,7,70,1.01,54,Yes,Yes,2026-01-31 07:37:46.302926,0.78,0.91,True
+Dr. Deshmukh Hospitalnan,18.5034889,73.8565846,private hospital,Private,,,,,HOSP_169,21,93,19,57,1.04,58,Yes,Yes,2026-01-31 07:36:46.302926,0.9,0.99,True
+Sane Guruji Aarogya Kendra,18.5034909,73.93810336,private hospital,Private,,,,,HOSP_170,21,36,16,29,0.93,27,Yes,Yes,2026-01-31 08:14:46.302926,0.76,0.77,False
+Late. Jayabai Nanasaheb Sutar Maternity Home,18.503652,73.807762,Government hospital(PMC),Government,,,,,HOSP_171,21,97,13,65,0.64,3,Yes,Yes,2026-01-31 08:56:46.302926,0.62,0.51,False
+Amey Clinic Maternity & GynaeSurgical Home,18.5037095,73.82878358,private hospital,Private,,,,,HOSP_172,6,92,4,61,0.68,5,Yes,Yes,2026-01-31 06:15:46.302926,0.67,0.56,False
+Noble Hospital,18.5037415,73.92734033,private hospital,Private,,,,,HOSP_173,6,20,4,8,0.65,10,Yes,Yes,2026-01-31 06:50:46.302926,0.67,0.57,False
+Kelkar Pediatric Hospital (Children),18.503906,73.85571762,private hospital,Private,,,,,HOSP_174,9,70,7,62,0.92,28,Yes,Yes,2026-01-31 07:55:46.302926,0.78,0.78,False
+Janta Vasahat Dawakhana,18.5041367,73.85130454,Government hospital(PMC),Government,,,,,HOSP_175,5,64,3,29,1.02,32,Yes,Yes,2026-01-31 06:12:46.302926,0.6,0.73,False
+Vibhute Hospitalnan,18.504137,73.85165049,private hospital,Private,,,,,HOSP_176,5,96,3,49,0.8,6,Yes,Yes,2026-01-31 07:03:46.302926,0.6,0.56,False
+"Healing Hands Clinic, Tilak Road",18.50417,73.854841,private clinic,Private,,,,,HOSP_177,23,23,16,9,0.69,10,Yes,Yes,2026-01-31 08:00:46.302926,0.7,0.6,False
+Tooth Clinic,18.5042105,73.9014439,private clinic,Private,,,,,HOSP_178,6,81,4,58,0.88,31,Yes,Yes,2026-01-31 06:27:46.302926,0.67,0.72,False
+Lapro Obeso Centernan,18.5044878,73.85108619,private hospital,Private,,,,,HOSP_179,16,84,14,43,1.07,42,Yes,Yes,2026-01-31 06:28:46.302926,0.88,0.93,True
+Bhide Hospital Balrog Vibhagnan,18.5048168,73.84430481,private hospital,Private,,,,,HOSP_180,10,51,7,24,0.98,20,Yes,Yes,2026-01-31 06:45:46.302926,0.7,0.72,False
+Bhide Hospital Orthopedic Divissionnan,18.5048664,73.8443334,private hospital,Private,,,,,HOSP_181,8,53,6,23,1.07,46,Yes,Yes,2026-01-31 07:03:46.302926,0.75,0.88,True
+Late. Savitribai Phule Maternity Home,18.504876,73.86102,Government hospital(PMC),Government,,,,,HOSP_182,15,91,11,41,0.76,3,Yes,Yes,2026-01-31 07:59:46.302926,0.73,0.6,False
+Novo Grace Skin Clinic,18.504899,73.832172,private clinic,Private,,,,,HOSP_183,21,58,17,40,0.74,10,Yes,Yes,2026-01-31 07:17:46.302926,0.81,0.67,False
+Dr Jagtap Dispensary,18.5051912,73.8382896,Dispensary,Government,,,,,HOSP_184,10,45,9,33,1.11,40,No,Yes,2026-01-31 06:37:46.302926,0.9,0.94,True
+Jeevan Sadhana Clinic,18.505277,73.824124,private clinic,Private,,,,,HOSP_185,9,53,6,31,0.93,34,Yes,Yes,2026-01-31 06:47:46.302926,0.67,0.75,False
+Anand Maternity & Nursing Homenan,18.5054941,73.85053047,private hospital,Private,,,,,HOSP_186,24,73,21,46,0.82,15,Yes,Yes,2026-01-31 06:29:46.302926,0.88,0.75,False
+Late. Chandu Mama Sonawane Maternity Home,18.505713,73.868817,Government hospital(PMC),Government,,,,,HOSP_187,6,22,4,16,0.97,21,Yes,Yes,2026-01-31 06:22:46.302926,0.67,0.71,False
+Shri Dashabhuja X-Ray Clinic,18.5057279,73.8261294,private clinic,Private,,,,,HOSP_188,10,69,7,28,1.02,50,Yes,Yes,2026-01-31 06:12:46.302926,0.7,0.86,True
+Amey Nursing Homenan,18.5059518,73.85677009,private hospital,Private,,,,,HOSP_189,15,31,14,17,0.99,31,Yes,Yes,2026-01-31 07:24:46.302926,0.93,0.89,True
+Eternis Skin & Hair clinic,18.506019,73.817779,private clinic,Private,,,,,HOSP_190,20,84,13,74,0.94,24,Yes,Yes,2026-01-31 07:42:46.302926,0.65,0.7,False
+Day Care  Orthopedic Hospitalnan,18.506127,73.85389021,private hospital,Private,,,,,HOSP_191,20,73,12,50,0.77,13,Yes,Yes,2026-01-31 06:41:46.302926,0.6,0.58,False
+Neo Hospitalnan,18.5061368,73.8522629,private hospital,Private,,,,,HOSP_192,5,24,4,12,0.91,23,Yes,Yes,2026-01-31 08:13:46.302926,0.8,0.76,False
+Homeo Care Clinic,18.5061464,73.9274336,private clinic,Private,,,,,HOSP_193,13,76,8,50,0.85,23,Yes,Yes,2026-01-31 06:43:46.302926,0.62,0.66,False
+Dr. Chitale Ent Hospitalnan,18.5061689,73.85289289,private hospital,Private,,,,,HOSP_194,10,36,9,20,1.09,53,Yes,Yes,2026-01-31 07:41:46.302926,0.9,0.99,True
+Ashwini Hospitalnan,18.5061837,73.8443349,private hospital,Private,,,,,HOSP_195,20,66,15,43,1.04,34,Yes,Yes,2026-01-31 06:07:46.302926,0.75,0.82,False
+Dr. Pabalkar Nursing Homenan,18.5061852,73.8565195,private hospital,Private,,,,,HOSP_196,7,42,6,19,1.07,46,Yes,Yes,2026-01-31 07:12:46.302926,0.86,0.94,True
+"Late. Tharkude Dawakhana, Erandwana",18.5066,73.832811,Government hospital(PMC),Government,,,,,HOSP_197,24,98,21,45,0.67,11,Yes,Yes,2026-01-31 08:08:46.302926,0.88,0.68,False
+Chinmay Nursing Homenan,18.5066159,73.84475521,private hospital,Private,,,,,HOSP_198,8,33,6,15,1.0,31,Yes,Yes,2026-01-31 06:05:46.302926,0.75,0.8,False
+Wagh Eye Clinic,18.506821,73.840436,private clinic,Private,,,,,HOSP_199,23,85,22,73,1.07,53,Yes,Yes,2026-01-31 06:19:46.302926,0.96,1.01,True
+"Skiin Bliss Clinic, Pune",18.506873,73.851803,private clinic,Private,,,,,HOSP_200,7,94,5,72,0.95,33,Yes,Yes,2026-01-31 06:39:46.302926,0.71,0.77,False
+Aashtang Ayurved Rugnalayanan,18.5069646,73.85072195,private hospital,Private,,,,,HOSP_201,23,70,22,33,1.07,56,Yes,Yes,2026-01-31 06:27:46.302926,0.96,1.02,True
+N. M. Wadia Hospitalnan,18.5071685,73.85499234,private hospital,Private,,,,,HOSP_202,24,57,15,28,1.01,36,Yes,Yes,2026-01-31 06:23:46.302926,0.62,0.76,False
+Deshpande X - Ray & Sonography Clinic,18.5072667,73.8041923,private clinic,Private,,,,,HOSP_203,11,83,8,63,0.85,23,Yes,Yes,2026-01-31 08:04:46.302926,0.73,0.71,False
+Parvati Netra Chikitsalyanan,18.507293,73.85177932,private hospital,Private,,,,,HOSP_204,24,57,16,27,0.85,21,Yes,Yes,2026-01-31 07:04:46.302926,0.67,0.67,False
+Dr. Manoj Chinchwadkar's Critical Ultrasonography Clinic,18.507346,73.851932,private clinic,Private,,,,,HOSP_205,13,69,10,35,0.69,13,Yes,Yes,2026-01-31 06:46:46.302926,0.77,0.64,False
+HomeoCureâ„¢ Homeopathy Clinic,18.507359,73.851338,private clinic,Private,,,,,HOSP_206,5,49,3,43,0.77,5,Yes,Yes,2026-01-31 06:09:46.302926,0.6,0.55,False
+"Sahyadri Hospital, Kothrud",18.5074423,73.80575713,private hospital,Private,,,,,HOSP_207,12,98,11,51,1.0,25,Yes,Yes,2026-01-31 08:41:46.302926,0.92,0.86,True
+Vision Eye Center,18.5075957,73.80689646,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_208,11,70,10,51,1.06,42,Yes,Yes,2026-01-31 06:35:46.302926,0.91,0.94,True
+Bakshi Hospital,18.5077479,73.80542197,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_209,22,82,21,72,0.79,3,Yes,Yes,2026-01-31 08:51:46.302926,0.95,0.72,False
+Sammohini Clinicnan,18.5079993,73.8430136,private hospital,Private,,,,,HOSP_210,12,71,7,41,0.64,10,Yes,Yes,2026-01-31 07:23:46.302926,0.58,0.52,False
+Specialty Eye Clinics,18.508281,73.830227,private clinic,Private,,,,,HOSP_211,5,57,4,23,0.97,26,Yes,Yes,2026-01-31 06:23:46.302926,0.8,0.8,False
+Chandrama Clinicnan,18.508608,73.8457036,private hospital,Private,,,,,HOSP_212,15,98,11,51,0.62,5,Yes,Yes,2026-01-31 08:40:46.302926,0.73,0.57,False
+Dr. Bhange's Eye Day Care Centernan,18.5086631,73.85503866,private hospital,Private,,,,,HOSP_213,22,49,16,39,0.71,14,Yes,Yes,2026-01-31 07:16:46.302926,0.73,0.63,False
+Shantalaxmi Clinicnan,18.5086763,73.85500388,private hospital,Private,,,,,HOSP_214,14,70,10,58,0.63,10,Yes,Yes,2026-01-31 08:53:46.302926,0.71,0.58,False
+Late. Balaji Rakhmaji Gaikwad Dawakhana,18.509032,73.86526,Government hospital(PMC),Government,,,,,HOSP_215,7,24,5,18,0.7,10,Yes,Yes,2026-01-31 08:47:46.302926,0.71,0.6,False
+Homeopathic Clinic,18.509069,73.811947,private clinic,Private,,,,,HOSP_216,11,48,9,21,0.74,7,Yes,Yes,2026-01-31 06:09:46.302926,0.82,0.66,False
+Dr. Swanand S. Gholap,18.5091081,73.8118926,private clinic,Private,,,,,HOSP_217,20,23,16,18,0.83,27,Yes,Yes,2026-01-31 08:39:46.302926,0.8,0.76,False
+Jog Hospital,18.5091699,73.82159066,private hospital,Private,,,,,HOSP_218,20,29,15,24,0.83,26,Yes,Yes,2026-01-31 07:30:46.302926,0.75,0.73,False
+Bidaye Hospital Pvt.Ltd.,18.5091951,73.84522332,private hospital,Private,,,,,HOSP_219,24,75,15,52,1.02,58,Yes,Yes,2026-01-31 08:43:46.302926,0.62,0.85,False
+Krishna Hospital,18.5092184,73.81268003,private hospital,Private,N.A.,YES,N.A.,YES,HOSP_220,21,36,13,31,0.84,30,Yes,Yes,2026-01-31 07:40:46.302926,0.62,0.68,False
+Nachiket Hospital,18.5092237,73.83162954,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_221,6,93,3,75,0.91,15,Yes,Yes,2026-01-31 06:44:46.302926,0.5,0.58,False
+Dwidal Nursing Home,18.5093097,73.83614629,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_222,5,36,4,26,0.69,12,Yes,Yes,2026-01-31 08:27:46.302926,0.8,0.66,False
+Ramkrishna  Hospitalnan,18.5093475,73.84820333,private hospital,Private,,,,,HOSP_223,20,88,12,60,0.69,9,Yes,Yes,2026-01-31 08:22:46.302926,0.6,0.54,False
+Kulkarni Endo Surgery  Institute & Re-Effective Urologist Center,18.5097874,73.80298726,private hospital,Private,,,,,HOSP_224,16,53,10,30,0.94,19,Yes,Yes,2026-01-31 06:39:46.302926,0.62,0.67,False
+Gholap Clinic,18.5098134,73.8149038,private clinic,Private,,,,,HOSP_225,9,25,6,11,0.63,10,Yes,Yes,2026-01-31 07:23:46.302926,0.67,0.56,False
+Dhodu Mama Sathe HospitalVaidykiya Mahavidyalaya,18.5098442,73.83679248,private hospital,Private,,,,,HOSP_226,9,72,8,50,0.91,28,Yes,Yes,2026-01-31 08:16:46.302926,0.89,0.83,False
+Lokmanya Hospital,18.5100547,73.83588457,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_227,13,85,12,47,0.98,27,Yes,Yes,2026-01-31 07:21:46.302926,0.92,0.86,True
+"Best Liposuction, Gynecomastia, Nose Cosmetic Surgery Clinic in Pune - Cosmetic",18.510093,73.834494,private clinic,Private,,,,,HOSP_228,13,96,11,79,0.95,29,Yes,Yes,2026-01-31 08:36:46.302926,0.85,0.83,False
+"Life Force Homeopathy Clinic, Paud Road, Pune",18.51019,73.819095,private clinic,Private,,,,,HOSP_229,7,62,6,55,0.67,9,Yes,Yes,2026-01-31 08:23:46.302926,0.86,0.67,False
+Madhavrao Rande Memorial Hospital(Sanjivan Hospital),18.5102083,73.83704621,private hospital,Private,,,,,HOSP_230,23,94,18,72,0.8,3,Yes,Yes,2026-01-31 07:25:46.302926,0.78,0.64,False
+Cosmetic Laser Surgery Center,18.5102285,73.8382306,private clinic,Private,,,,,HOSP_231,20,42,12,18,0.9,29,Yes,Yes,2026-01-31 08:17:46.302926,0.6,0.69,False
+Patwardhan Eye Clinic,18.5102629,73.8176979,private clinic,Private,,,,,HOSP_232,20,74,19,40,0.76,6,Yes,Yes,2026-01-31 06:38:46.302926,0.95,0.73,False
+Niranjan Nursing Homenan,18.5102768,73.85264344,private hospital,Private,,,,,HOSP_233,7,99,6,45,1.0,32,Yes,Yes,2026-01-31 07:19:46.302926,0.86,0.86,True
+Naik Orthopadic Hospital,18.5103848,73.85943727,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_234,24,94,20,68,1.02,47,Yes,Yes,2026-01-31 07:00:46.302926,0.83,0.91,True
+Yogesh Hospitalnan,18.5104292,73.84786016,private hospital,Private,,,,,HOSP_235,5,35,4,27,1.13,31,No,Yes,2026-01-31 08:51:46.302926,0.8,0.86,True
+Sarpotdar Eye Hospital,18.510586,73.81989926,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_236,24,27,21,23,0.77,6,Yes,Yes,2026-01-31 06:43:46.302926,0.88,0.7,False
+Dr. Tandulwadkar's Solo Clinic,18.510714,73.835288,private clinic,Private,,,,,HOSP_237,15,23,12,14,1.05,59,Yes,Yes,2026-01-31 07:24:46.302926,0.8,0.95,True
+Dr. Vaidya Skin and Laser Treatment Clinic,18.5109166,73.8506744,private clinic,Private,,,,,HOSP_238,21,23,20,19,0.95,15,Yes,Yes,2026-01-31 08:33:46.302926,0.95,0.82,False
+Poona Hospital & Reasarch Centernan,18.5110196,73.8424597,private hospital,Private,,,,,HOSP_239,12,75,11,62,0.86,18,Yes,Yes,2026-01-31 06:54:46.302926,0.92,0.79,False
+Godbole Hospitalnan,18.5111808,73.85138735,private hospital,Private,,,,,HOSP_240,8,44,6,24,0.69,4,Yes,Yes,2026-01-31 08:48:46.302926,0.75,0.6,False
+Bai Bhikayji Pestanji Bammanji Dawakhana,18.511186,73.870064,Government hospital(PMC),Government,,,,,HOSP_241,10,86,8,71,1.01,34,Yes,Yes,2026-01-31 06:47:46.302926,0.8,0.84,False
+Late. Rohidas Kirad Dawakhana,18.511242,73.868669,Government hospital(PMC),Government,,,,,HOSP_242,12,86,7,50,0.69,5,Yes,Yes,2026-01-31 07:51:46.302926,0.58,0.52,False
+Galaxcy Care Laproscopy Institute Pvt.Ltd.,18.5114185,73.83722626,private hospital,Private,,,,,HOSP_243,24,46,20,25,0.84,29,Yes,Yes,2026-01-31 06:18:46.302926,0.83,0.78,False
+Manoj Clinicnan,18.5114385,73.84876844,private hospital,Private,,,,,HOSP_244,7,51,4,36,0.6,14,Yes,Yes,2026-01-31 08:10:46.302926,0.57,0.52,False
+Deodhar Eyes Hospital,18.5114617,73.83643808,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_245,20,69,16,38,1.04,37,Yes,Yes,2026-01-31 07:24:46.302926,0.8,0.86,True
+Nanal Hospital,18.5114677,73.83728408,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_246,7,80,6,57,1.04,49,Yes,Yes,2026-01-31 07:15:46.302926,0.86,0.94,True
+Late. Sundarabai Ganpatrao Raut Dawakhana,18.511578,73.820137,Government hospital(PMC),Government,,,,,HOSP_247,22,70,18,49,1.01,46,Yes,Yes,2026-01-31 07:37:46.302926,0.82,0.9,True
+Dr. Paranjpe Gynae Hospitalnan,18.5115989,73.84595553,private hospital,Private,,,,,HOSP_248,18,38,14,25,0.78,3,Yes,Yes,2026-01-31 06:11:46.302926,0.78,0.64,False
+Dr Tendulkar's Dispensary,18.5116074,73.8705748,Dispensary,Government,,,,,HOSP_249,22,40,15,23,0.69,14,Yes,Yes,2026-01-31 06:22:46.302926,0.68,0.6,False
+Dr Shridhar Chiplunkar,18.5117516,73.8502007,private clinic,Private,,,,,HOSP_250,6,24,3,16,0.87,33,Yes,Yes,2026-01-31 06:47:46.302926,0.5,0.64,False
+Late. Kotnis Aarogya Kendra,18.511875,73.857932,Government hospital(PMC),Government,,,,,HOSP_251,7,61,6,42,0.91,29,Yes,Yes,2026-01-31 08:56:46.302926,0.86,0.82,False
+Laxmi Prasutigruh & Jeevan JoytiHospital,18.511929,73.85450819,private hospital,Private,,,,,HOSP_252,20,80,13,53,0.68,11,Yes,Yes,2026-01-31 08:57:46.302926,0.65,0.57,False
+Chiranjeev Clinic,18.5119559,73.8534704,private clinic,Private,,,,,HOSP_253,13,41,8,25,0.93,21,Yes,Yes,2026-01-31 08:28:46.302926,0.62,0.67,False
+Vitalife Clinic,18.5119723,73.7825397,private clinic,Private,,,,,HOSP_254,8,40,6,16,1.12,31,No,Yes,2026-01-31 08:46:46.302926,0.75,0.84,False
+Late.Malti Kachi Maternity Home,18.5121324,73.85800581,Government hospital(PMC),Government,,,,,HOSP_255,5,89,4,61,1.01,58,Yes,Yes,2026-01-31 09:01:46.302926,0.8,0.94,True
+Dr. Ranade Hospitalnan,18.5121401,73.84916807,private hospital,Private,,,,,HOSP_256,8,20,7,9,1.03,38,Yes,Yes,2026-01-31 08:36:46.302926,0.88,0.9,True
+Nursing Homenan,18.512151,73.84953817,private hospital,Private,,,,,HOSP_257,5,24,3,17,1.06,39,Yes,Yes,2026-01-31 07:54:46.302926,0.6,0.77,False
+Shintre Hospitalnan,18.5121989,73.849542,private hospital,Private,,,,,HOSP_258,18,31,14,24,0.73,4,Yes,Yes,2026-01-31 06:12:46.302926,0.78,0.62,False
+Dabake Maternity & General NursingHome,18.5123551,73.83818309,private hospital,Private,,,,,HOSP_259,20,65,16,42,0.92,33,Yes,Yes,2026-01-31 06:35:46.302926,0.8,0.81,False
+Mahatma Gandhi Hospitalnan,18.5127056,73.84419483,private hospital,Private,,,,,HOSP_260,24,53,20,35,1.14,40,No,Yes,2026-01-31 08:36:46.302926,0.83,0.92,True
+Konkan Mitra Mandal Trust's SahyadriSpeciality Hospital,18.513101,73.83929666,private hospital,Private,,,,,HOSP_261,12,68,10,59,0.73,12,Yes,Yes,2026-01-31 08:10:46.302926,0.83,0.68,False
+Parivartan Ayurved Hospital,18.5132423,73.80802103,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_262,11,97,8,79,0.97,28,Yes,Yes,2026-01-31 07:59:46.302926,0.73,0.77,False
+Shining Smiles Orthodontic & Multispeciality Dental Clinic,18.51343,73.855627,private clinic,Private,,,,,HOSP_263,7,64,5,54,0.91,32,Yes,Yes,2026-01-31 07:24:46.302926,0.71,0.76,False
+Eye Hospital (Dr. Bhat's Eye CareCenter),18.5134975,73.84590853,private hospital,Private,,,,,HOSP_264,21,46,16,37,0.92,33,Yes,Yes,2026-01-31 08:43:46.302926,0.76,0.79,False
+Laxmi Clincnan,18.5136354,73.84559137,private hospital,Private,,,,,HOSP_265,5,92,4,41,0.99,23,Yes,Yes,2026-01-31 08:51:46.302926,0.8,0.79,False
+Sharada Clinic Shaishav Clinicnan,18.5137981,73.84772473,private hospital,Private,,,,,HOSP_266,20,45,16,21,1.1,54,Yes,Yes,2026-01-31 08:07:46.302926,0.8,0.95,True
+"Sathe Eye Clinic, Day Care Clinicnan",18.5138288,73.84498919,private hospital,Private,,,,,HOSP_267,16,66,12,43,1.02,36,Yes,Yes,2026-01-31 08:15:46.302926,0.75,0.82,False
+Sutika Seva Mandirnan,18.5139169,73.84640123,private hospital,Private,,,,,HOSP_268,23,75,17,39,0.65,14,Yes,Yes,2026-01-31 07:06:46.302926,0.74,0.62,False
+Best ivf infertility specialist in Pune Pcmc - Xenith Clinic,18.514103,73.828748,private clinic,Private,,,,,HOSP_269,18,82,14,52,1.06,32,Yes,Yes,2026-01-31 08:10:46.302926,0.78,0.84,False
+Dr. Tarabai Limye Hospitalnan,18.5142345,73.8494506,private hospital,Private,,,,,HOSP_270,10,67,9,40,0.78,6,Yes,Yes,2026-01-31 06:46:46.302926,0.9,0.71,False
+Kirad Hospital,18.5142545,73.86886318,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_271,10,80,8,53,0.83,20,Yes,Yes,2026-01-31 08:11:46.302926,0.8,0.73,False
+Richfeel Trichology Centre,18.514315,73.849749,private clinic,Private,,,,,HOSP_272,17,45,14,34,0.88,16,Yes,Yes,2026-01-31 08:20:46.302926,0.82,0.74,False
+Sarswati Vilas Hospitalnan,18.5145037,73.85175613,private hospital,Private,,,,,HOSP_273,23,55,20,41,0.9,20,Yes,Yes,2026-01-31 08:17:46.302926,0.87,0.79,False
+Dr.Ketkar Ent Hospitalnan,18.5145113,73.84702507,private hospital,Private,,,,,HOSP_274,12,20,9,13,0.84,17,Yes,Yes,2026-01-31 08:11:46.302926,0.75,0.7,False
+Lathi Hospital & Surgical NursingHome,18.5146524,73.85000965,private hospital,Private,,,,,HOSP_275,6,27,4,21,1.07,45,Yes,Yes,2026-01-31 07:50:46.302926,0.67,0.84,False
+Netra Seva Kendra (Jan Kalyan EyeBank),18.5146832,73.84726299,private hospital,Private,,,,,HOSP_276,5,71,4,43,0.99,22,Yes,Yes,2026-01-31 08:18:46.302926,0.8,0.78,False
+Late. Kalavatibai Mavale Dawakhana,18.514826,73.84675,Government hospital(PMC),Government,,,,,HOSP_277,19,98,14,83,0.94,16,Yes,Yes,2026-01-31 08:51:46.302926,0.74,0.72,False
+Samvedan Ent & Eye Care Center,18.515151,73.782452,private clinic,Private,,,,,HOSP_278,5,66,3,28,0.6,3,Yes,Yes,2026-01-31 06:19:46.302926,0.6,0.49,False
+V.V And Co.,18.515351,73.856388,Dispensary,Government,,,,,HOSP_279,9,75,8,65,1.12,38,No,Yes,2026-01-31 07:22:46.302926,0.89,0.93,True
+Dr. Manohar Gadre,18.5153929,73.850178,Dispensary,Government,,,,,HOSP_280,20,33,12,24,1.03,59,Yes,Yes,2026-01-31 08:40:46.302926,0.6,0.84,False
+Sathe Hospitalnan,18.5154496,73.84194242,private hospital,Private,,,,,HOSP_281,23,47,15,27,0.99,26,Yes,Yes,2026-01-31 09:02:46.302926,0.65,0.73,False
+Late. Mamasaheb Badade Dawakhana,18.515515,73.867725,Government hospital(PMC),Government,,,,,HOSP_282,8,97,6,48,0.63,5,Yes,Yes,2026-01-31 07:43:46.302926,0.75,0.58,False
+"Lasik Laser Cataract Eye Surgery, Eye Clinic Specialist In Pune",18.515617,73.815373,private clinic,Private,,,,,HOSP_283,7,21,6,13,0.69,13,Yes,Yes,2026-01-31 07:24:46.302926,0.86,0.69,False
+Renu Maternity & Nursing Home,18.5156975,73.87092773,private hospital,Private,,,,,HOSP_284,21,45,13,22,0.7,3,Yes,Yes,2026-01-31 06:42:46.302926,0.62,0.53,False
+Dr. Khurd Maternity Homenan,18.5157111,73.85615119,private hospital,Private,,,,,HOSP_285,21,33,12,15,0.64,9,Yes,Yes,2026-01-31 06:46:46.302926,0.57,0.51,False
+S.P. Deshpande Eye Clinicnan,18.5157878,73.8470853,private hospital,Private,,,,,HOSP_286,16,78,9,55,0.77,12,Yes,Yes,2026-01-31 06:21:46.302926,0.56,0.56,False
+Hutatma Babu Genu Dawakhana,18.515805,73.859786,Government hospital(PMC),Government,,,,,HOSP_287,18,75,11,49,1.04,34,Yes,Yes,2026-01-31 06:31:46.302926,0.61,0.75,False
+Shreeyash Hospitalnan,18.5158584,73.84188041,private hospital,Private,,,,,HOSP_288,10,26,6,19,0.82,31,Yes,Yes,2026-01-31 06:53:46.302926,0.6,0.67,False
+"Orthodontic, Dental clinic, Dental implant, Root canal, Teeth whitening, Deccan",18.515868,73.841703,private clinic,Private,,,,,HOSP_289,7,22,5,19,0.62,11,Yes,Yes,2026-01-31 07:13:46.302926,0.71,0.58,False
+Asha Kiran Hospitalnan,18.5159023,73.84746873,private hospital,Private,,,,,HOSP_290,13,42,10,27,0.77,9,Yes,Yes,2026-01-31 07:22:46.302926,0.77,0.65,False
+Yashada Hospital,18.5162507,73.86153084,private hospital,Private,,,,,HOSP_291,9,37,6,25,0.62,10,Yes,Yes,2026-01-31 08:47:46.302926,0.67,0.56,False
+Dr Deven Raisoni,18.5163528,73.8422415,Dispensary,Government,,,,,HOSP_292,21,57,15,25,0.63,11,Yes,Yes,2026-01-31 08:52:46.302926,0.71,0.59,False
+Hrishikesh Healthcare Pvt. Ltd.,18.5164131,73.84213022,private hospital,Private,,,,,HOSP_293,18,34,11,25,0.72,8,Yes,Yes,2026-01-31 07:08:46.302926,0.61,0.55,False
+Painex - Pain Clinic in Pune,18.516445,73.851879,private clinic,Private,,,,,HOSP_294,7,83,5,49,0.75,14,Yes,Yes,2026-01-31 08:40:46.302926,0.71,0.64,False
+Saikrupa Nursing Homenan,18.5165182,73.84771221,private hospital,Private,,,,,HOSP_295,5,47,4,41,1.03,50,Yes,Yes,2026-01-31 08:35:46.302926,0.8,0.91,True
+Chaitanya Eye Clinic & Phaco Centrenan,18.516541,73.85158874,private hospital,Private,,,,,HOSP_296,24,93,21,75,1.15,51,No,Yes,2026-01-31 06:13:46.302926,0.88,0.99,True
+Vassan Eye Care Hospital,18.5167739,73.93317104,private hospital,Private,,,,,HOSP_297,5,58,3,38,0.77,13,Yes,Yes,2026-01-31 06:31:46.302926,0.6,0.58,False
+Mahrashtra Medical Foundetion JoshiHosptial,18.5171774,73.83323065,private hospital,Private,,,,,HOSP_298,7,76,5,35,0.83,32,Yes,Yes,2026-01-31 07:02:46.302926,0.71,0.73,False
+Ghaisas Ent Hospitalnan,18.5172985,73.84236323,private hospital,Private,,,,,HOSP_299,22,36,15,29,1.03,33,Yes,Yes,2026-01-31 07:34:46.302926,0.68,0.78,False
+Gandhi Accident & General Hospitalnan,18.5173963,73.84715994,private hospital,Private,,,,,HOSP_300,14,63,13,50,0.81,17,Yes,Yes,2026-01-31 07:59:46.302926,0.93,0.78,False
+Wagdarikar Hospital,18.5177589,73.8587391,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_301,7,44,6,21,0.74,9,Yes,Yes,2026-01-31 07:40:46.302926,0.86,0.69,False
+Pearl Womens Hospital & Yash Ivf`,18.5178319,73.84438467,private hospital,Private,,,,,HOSP_302,12,36,10,19,1.08,38,Yes,Yes,2026-01-31 07:05:46.302926,0.83,0.89,True
+Sheth Tarachand RamanathCharitable Aurvedic Hospital,18.5179954,73.86448721,private hospital,Private,,,,,HOSP_303,18,32,12,25,0.62,7,Yes,Yes,2026-01-31 06:28:46.302926,0.67,0.55,False
+Phadke Hospitalnan,18.5181324,73.84390052,private hospital,Private,,,,,HOSP_304,22,44,21,21,1.0,20,Yes,Yes,2026-01-31 08:48:46.302926,0.95,0.86,True
+Paranjpe Eye Clinic,18.5183819,73.8403901,private clinic,Private,,,,,HOSP_305,19,87,11,74,0.85,26,Yes,Yes,2026-01-31 06:09:46.302926,0.58,0.65,False
+Gupte Hospital of Acurate DaigonesticPvt.Ltd.,18.5184926,73.83988249,private hospital,Private,,,,,HOSP_306,6,29,3,17,0.72,4,Yes,Yes,2026-01-31 07:20:46.302926,0.5,0.48,False
+The Cedar Clinic Infertility Center,18.518731,73.8342537,private clinic,Private,,,,,HOSP_307,14,86,10,38,0.77,5,Yes,Yes,2026-01-31 07:32:46.302926,0.71,0.61,False
+Children Hospital,18.5188041,73.86023877,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_308,6,37,3,29,0.94,17,Yes,Yes,2026-01-31 08:37:46.302926,0.5,0.6,False
+Jabde Hospitalnan,18.5189179,73.85948013,private hospital,Private,,,,,HOSP_309,21,53,20,31,0.73,14,Yes,Yes,2026-01-31 06:14:46.302926,0.95,0.75,False
+Deccan Centernan,18.5189549,73.84463076,private hospital,Private,,,,,HOSP_310,12,27,11,17,0.79,14,Yes,Yes,2026-01-31 06:09:46.302926,0.92,0.75,False
+Gupte Hospital,18.5191366,73.8399448,private clinic,Private,,,,,HOSP_311,5,59,3,26,0.95,29,Yes,Yes,2026-01-31 06:22:46.302926,0.6,0.7,False
+Jijamata Hospitalnan,18.5192632,73.85714533,private hospital,Private,,,,,HOSP_312,13,61,10,24,0.9,23,Yes,Yes,2026-01-31 06:19:46.302926,0.77,0.75,False
+Dhanwantari Hospitalnan,18.5193877,73.86637561,private hospital,Private,,,,,HOSP_313,15,60,14,43,0.74,9,Yes,Yes,2026-01-31 06:50:46.302926,0.93,0.72,False
+Accurate Diagnostic Pvt. Ltd.,18.5194333,73.83997699,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_314,20,25,19,16,1.13,37,No,Yes,2026-01-31 06:49:46.302926,0.95,0.96,True
+Samarth Hospitalnan,18.5195018,73.8621055,private hospital,Private,,,,,HOSP_315,11,71,9,49,0.84,25,Yes,Yes,2026-01-31 06:31:46.302926,0.82,0.76,False
+Late. Mukundrao Lele Dawakhana,18.519752,73.854411,Government hospital(PMC),Government,,,,,HOSP_316,14,45,13,35,1.09,45,Yes,Yes,2026-01-31 08:31:46.302926,0.93,0.97,True
+K.E.M. Hospitalnan,18.5198093,73.86724329,private hospital,Private,,,,,HOSP_317,7,83,6,60,1.05,55,Yes,Yes,2026-01-31 08:09:46.302926,0.86,0.97,True
+Family Doctor Clinic,18.5205081,73.8567695,private clinic,Private,,,,,HOSP_318,22,78,19,38,0.97,18,Yes,Yes,2026-01-31 08:57:46.302926,0.86,0.79,False
+Vision Nextnan,18.520531,73.84417413,private hospital,Private,,,,,HOSP_319,17,75,10,43,0.82,15,Yes,Yes,2026-01-31 08:07:46.302926,0.59,0.6,False
+Visage Skin Clinic,18.520873,73.841493,private clinic,Private,,,,,HOSP_320,11,78,8,66,1.11,53,No,Yes,2026-01-31 06:58:46.302926,0.73,0.91,True
+Universal Hospitalnan,18.5215002,73.85566468,private hospital,Private,,,,,HOSP_321,8,89,7,69,0.73,9,Yes,Yes,2026-01-31 08:52:46.302926,0.88,0.7,False
+Surya Hospital Pvt. Ltd. SuryaSahaydri Hospital,18.5215923,73.85579984,private hospital,Private,,,,,HOSP_322,17,52,11,35,0.96,16,Yes,Yes,2026-01-31 08:48:46.302926,0.65,0.68,False
+Skin City India - Best Dermatologist in Camp Pune,18.521637,73.876436,private clinic,Private,,,,,HOSP_323,24,72,22,38,0.77,10,Yes,Yes,2026-01-31 08:21:46.302926,0.92,0.73,False
+Dr. Kothari Accident Hospitalnan,18.5216956,73.84521143,private hospital,Private,,,,,HOSP_324,5,41,3,22,0.75,14,Yes,Yes,2026-01-31 07:07:46.302926,0.6,0.58,False
+"Dr. Nanal - Sex specialist doctor and clinic pune, sexologist in pune",18.522298,73.865999,private clinic,Private,,,,,HOSP_325,12,40,7,30,0.73,7,Yes,Yes,2026-01-31 06:49:46.302926,0.58,0.54,False
+Kaluskar Hospital & Laboretorynan,18.5226483,73.84778341,private hospital,Private,,,,,HOSP_326,18,89,13,73,1.09,36,Yes,Yes,2026-01-31 07:13:46.302926,0.72,0.83,False
+Late. Jangalrao Kondiba Amrale Dawakhana,18.522728,73.852555,Government hospital(PMC),Government,,,,,HOSP_327,20,89,12,65,1.06,33,Yes,Yes,2026-01-31 08:13:46.302926,0.6,0.75,False
+Kalekar Hospital,18.5228262,73.86802192,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_328,18,23,17,18,0.77,7,Yes,Yes,2026-01-31 06:24:46.302926,0.94,0.73,False
+Kamala Nehru Hospital (General Hospital),18.52283,73.86199,Government hospital(PMC),Government,,,,,HOSP_329,16,94,14,73,0.67,10,Yes,Yes,2026-01-31 07:49:46.302926,0.88,0.68,False
+Polyclinic & Hospitalnan,18.5228462,73.85107889,private hospital,Private,,,,,HOSP_330,23,81,21,38,1.03,30,Yes,Yes,2026-01-31 08:56:46.302926,0.91,0.88,True
+Pandit Plastic Surgery Clinic,18.5234394,73.8495823,private clinic,Private,,,,,HOSP_331,19,81,16,49,0.86,15,Yes,Yes,2026-01-31 08:19:46.302926,0.84,0.74,False
+Kelkar Hospitalnan,18.5238131,73.84701137,private hospital,Private,,,,,HOSP_332,6,43,4,20,0.64,6,Yes,Yes,2026-01-31 08:05:46.302926,0.67,0.55,False
+Prashant Hospital Maternity &General Hospital,18.5241744,73.84353928,private hospital,Private,,,,,HOSP_333,6,74,4,38,0.94,33,Yes,Yes,2026-01-31 06:52:46.302926,0.67,0.75,False
+Dr. Manohar Joshi Memorial Hospitalnan,18.5244702,73.84362612,private hospital,Private,,,,,HOSP_334,23,28,19,23,0.92,24,Yes,Yes,2026-01-31 07:20:46.302926,0.83,0.79,False
+Sanjeevan Surgery/ Atharva Netralaya& Reserch Centre,18.5246082,73.84237112,private hospital,Private,,,,,HOSP_335,21,22,17,14,1.13,57,No,Yes,2026-01-31 06:27:46.302926,0.81,0.97,True
+Surgical & General Nursing Homenan,18.5246144,73.84984613,private hospital,Private,,,,,HOSP_336,24,50,16,33,0.71,4,Yes,Yes,2026-01-31 06:27:46.302926,0.67,0.56,False
+Deendayal Memorial Hospitalnan,18.5246973,73.84113306,private hospital,Private,,,,,HOSP_337,14,59,11,28,0.84,17,Yes,Yes,2026-01-31 07:26:46.302926,0.79,0.72,False
+Late. Dadasaheb Gaikwad Dawakhana,18.524737,73.865131,Government hospital(PMC),Government,,,,,HOSP_338,10,55,7,30,0.88,25,Yes,Yes,2026-01-31 06:28:46.302926,0.7,0.71,False
+32 Smiles,18.524747,73.849466,private clinic,Private,,,,,HOSP_339,19,43,18,22,1.08,44,Yes,Yes,2026-01-31 07:45:46.302926,0.95,0.98,True
+"Dental Sphere: Best Dentist, Dental Clinic on F.C.Road, Deccan, Pune",18.524969,73.841222,private clinic,Private,,,,,HOSP_340,15,25,14,12,0.95,25,Yes,Yes,2026-01-31 07:00:46.302926,0.93,0.85,False
+Pioneer Medilesar Pvt. Ltd.,18.5252102,73.84180896,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_341,9,85,7,61,0.94,31,Yes,Yes,2026-01-31 06:12:46.302926,0.78,0.8,False
+Dr. Meena Ambule,18.5254603,73.8304487,Dispensary,Government,,,,,HOSP_342,5,94,4,49,0.75,3,Yes,Yes,2026-01-31 09:00:46.302926,0.8,0.64,False
+Dr. Arun Limaye Memorial Nandadip Hospital & Resarch Center Pvt. Ltd.,18.5254842,73.84185157,private hospital,Private,,,,,HOSP_343,12,23,10,16,1.07,35,Yes,Yes,2026-01-31 07:34:46.302926,0.83,0.88,True
+Suraj Hospitalnan,18.5257487,73.85271316,private hospital,Private,,,,,HOSP_344,16,98,9,42,0.78,7,Yes,Yes,2026-01-31 07:20:46.302926,0.56,0.54,False
+Walvekar Dr Shubhada,18.5274682,73.8269515,private clinic,Private,,,,,HOSP_345,16,25,15,11,0.75,10,Yes,Yes,2026-01-31 06:47:46.302926,0.94,0.74,False
+Maharashtra Medical FoundetionRatna Memorial Hospital,18.5276913,73.82960304,private hospital,Private,,,,,HOSP_346,9,70,8,37,1.0,16,Yes,Yes,2026-01-31 07:05:46.302926,0.89,0.81,False
+Rajeshree Shahu Maharaj Dawakhana,18.527713,73.907674,Government hospital(PMC),Government,,,,,HOSP_347,11,81,8,56,0.73,6,Yes,Yes,2026-01-31 06:51:46.302926,0.73,0.61,False
+Panse Hospital,18.5279466,73.8749931,private clinic,Private,,,,,HOSP_348,8,76,6,56,0.67,10,Yes,Yes,2026-01-31 08:08:46.302926,0.75,0.62,False
+Naik Clinic,18.528687,73.842839,private clinic,Private,,,,,HOSP_349,10,85,7,52,1.04,41,Yes,Yes,2026-01-31 07:28:46.302926,0.7,0.83,False
+Pune Fertility Centre,18.5287659,73.8478822,private clinic,Private,N.A.,N.A.,N.A.,N.A.,HOSP_350,17,98,13,61,0.86,20,Yes,Yes,2026-01-31 06:06:46.302926,0.76,0.72,False
+Dr. Homi J. Bhabha Maternity Home,18.529152,73.833361,Government hospital(PMC),Government,,,,,HOSP_351,24,94,14,71,0.95,15,Yes,Yes,2026-01-31 07:49:46.302926,0.58,0.64,False
+Dr. Suresh Parasnis Dispensary,18.529241,73.830514,Dispensary,Government,,,,,HOSP_352,19,27,17,11,0.81,18,Yes,Yes,2026-01-31 06:41:46.302926,0.89,0.76,False
+Sakhi Clinicnan,18.5293097,73.84328456,private hospital,Private,,,,,HOSP_353,7,45,4,25,0.96,31,Yes,Yes,2026-01-31 08:32:46.302926,0.57,0.7,False
+Oyster  & Pearl Tulip  Hospitalnan,18.5294331,73.82849362,private hospital,Private,,,,,HOSP_354,12,70,8,56,0.66,4,Yes,Yes,2026-01-31 08:36:46.302926,0.67,0.55,False
+Dr. Zine Patil Dispensary - Family Physician,18.5297967,73.8327551,Dispensary,Government,,,,,HOSP_355,24,64,23,44,0.87,19,Yes,Yes,2026-01-31 08:42:46.302926,0.96,0.82,False
+Center For Joint Repleacment Surgarynan,18.5297972,73.85262256,private hospital,Private,,,,,HOSP_356,20,63,17,35,1.14,59,No,Yes,2026-01-31 08:47:46.302926,0.85,1.0,True
+Sancheti Institute For Orthopedic &Rehabilitaion,18.529803,73.85304012,private hospital,Private,,,,,HOSP_357,17,24,12,20,1.01,53,Yes,Yes,2026-01-31 08:05:46.302926,0.71,0.87,True
+Sancheti Hospital,18.5299852,73.8530692,private clinic,Private,,,,,HOSP_358,22,89,15,69,0.85,17,Yes,Yes,2026-01-31 07:34:46.302926,0.68,0.66,False
+Jehangir Hospital,18.5302176,73.87686631,private hospital,Private,N.A.,YES,N.A.,YES,HOSP_359,14,45,8,23,0.74,13,Yes,Yes,2026-01-31 07:18:46.302926,0.57,0.56,False
+Sushrut  Hospitalnan,18.5302359,73.84758768,private hospital,Private,,,,,HOSP_360,23,87,20,62,1.1,42,Yes,Yes,2026-01-31 08:38:46.302926,0.87,0.93,True
+N. M. Wadiya Institute of CardiologyCharitable Trust,18.530461,73.8772286,private hospital,Private,,,,,HOSP_361,21,38,13,26,0.86,18,Yes,Yes,2026-01-31 08:39:46.302926,0.62,0.64,False
+"Skin City India - Dermatology Clinic in Pune, Hair Transplantation Clinic, Skin",18.5305342,73.8769023,private clinic,Private,,,,,HOSP_362,23,39,18,23,1.01,55,Yes,Yes,2026-01-31 06:46:46.302926,0.78,0.91,True
+dentspa best dental clinic in pune,18.530822,73.847464,private clinic,Private,,,,,HOSP_363,9,31,8,18,1.04,56,Yes,Yes,2026-01-31 08:19:46.302926,0.89,0.98,True
+Pune Municipal Corpn Dispensaries,18.5308225,73.8474647,Dispensary,Government,,,,,HOSP_364,13,66,8,37,0.59,8,Yes,Yes,2026-01-31 07:41:46.302926,0.62,0.52,False
+Atharv Hospitalnan,18.53119,73.84731013,private hospital,Private,,,,,HOSP_365,16,20,15,14,0.74,13,Yes,Yes,2026-01-31 08:53:46.302926,0.94,0.74,False
+"Life Force Homeopathy Clinic, Sasoon Road, Pune",18.531353,73.876723,private clinic,Private,,,,,HOSP_366,5,33,4,20,0.97,24,Yes,Yes,2026-01-31 07:20:46.302926,0.8,0.79,False
+Dr. Naidu Hospital,18.53139,73.869151,Government hospital(PMC),Government,,,,,HOSP_367,5,83,3,67,0.66,5,Yes,Yes,2026-01-31 07:56:46.302926,0.6,0.52,False
+National Institute of Naturopathy,18.5315624,73.8740255,Dispensary,Government,,,,,HOSP_368,19,57,18,41,0.81,32,Yes,Yes,2026-01-31 07:29:46.302926,0.95,0.85,False
+Pashan Dispensary,18.5315796,73.8501753,Dispensary,Government,,,,,HOSP_369,6,56,4,24,1.07,35,Yes,Yes,2026-01-31 06:28:46.302926,0.67,0.8,False
+Oyster  & Pearl Hospital Pvt.Ltd.,18.5319151,73.84731079,private hospital,Private,,,,,HOSP_370,20,30,19,21,0.97,29,Yes,Yes,2026-01-31 07:59:46.302926,0.95,0.88,True
+Define Aesthetics,18.531965,73.830489,private clinic,Private,,,,,HOSP_371,12,96,9,51,1.0,24,Yes,Yes,2026-01-31 08:15:46.302926,0.75,0.77,False
+Dr. Gogate Eye Clinic,18.5319958,73.87452667,private hospital,Private,,,,,HOSP_372,17,22,14,15,0.93,19,Yes,Yes,2026-01-31 06:09:46.302926,0.82,0.77,False
+Dr Gogate`s Eye Clinic,18.532037,73.874475,private clinic,Private,,,,,HOSP_373,5,52,4,38,0.92,19,Yes,Yes,2026-01-31 08:12:46.302926,0.8,0.75,False
+Sai Cosmetic Clinic - Hair Transplant Surgery Clinic & Skin Care Treatment in Pu,18.5321814,73.9331529,private clinic,Private,,,,,HOSP_374,20,25,18,12,0.72,12,Yes,Yes,2026-01-31 07:22:46.302926,0.9,0.71,False
+Best Cardiologist in Pune - Dr. Rahul Patil,18.532312,73.876551,private clinic,Private,,,,,HOSP_375,11,69,9,43,0.82,19,Yes,Yes,2026-01-31 08:07:46.302926,0.82,0.73,False
+Dr. Wachasunder Ent Clinicnan,18.5326896,73.84288448,private hospital,Private,,,,,HOSP_376,9,29,7,14,0.77,5,Yes,Yes,2026-01-31 08:17:46.302926,0.78,0.64,False
+Dr. Dalvi Maternity Hospital,18.533046,73.84891,Government hospital(PMC),Government,,,,,HOSP_377,7,24,6,10,0.85,20,Yes,Yes,2026-01-31 06:25:46.302926,0.86,0.77,False
+Grant Medical Foundetion Ruby HollClinic,18.5334009,73.87738058,private hospital,Private,,,,,HOSP_378,16,42,11,24,1.01,33,Yes,Yes,2026-01-31 06:10:46.302926,0.69,0.78,False
+Ruby Hall Clinic,18.5335172,73.8773236,private clinic,Private,,,,,HOSP_379,20,29,13,16,0.78,4,Yes,Yes,2026-01-31 08:38:46.302926,0.65,0.57,False
+Kids Clinic (I) Pvt. Ltd. Cloud NineHospital,18.5335351,73.84718891,private hospital,Private,,,,,HOSP_380,23,63,15,56,0.82,23,Yes,Yes,2026-01-31 07:10:46.302926,0.65,0.66,False
+Late. Sakharam Kundlik Kodre Maternity Home,18.53391,73.927257,Government hospital(PMC),Government,,,,,HOSP_381,9,21,6,13,0.8,3,Yes,Yes,2026-01-31 08:59:46.302926,0.67,0.59,False
+Dr. Viral - Cosmetic & Hair Transplant Surgeon,18.5362257,73.8987395,private clinic,Private,,,,,HOSP_382,18,32,12,18,0.65,13,Yes,Yes,2026-01-31 07:40:46.302926,0.67,0.58,False
+Morpheus Bliss Fertility Center,18.536725,73.876726,private clinic,Private,,,,,HOSP_383,9,59,8,40,0.89,29,Yes,Yes,2026-01-31 08:12:46.302926,0.89,0.83,False
+Four Fountains De-Stress Spa,18.536767,73.898448,Dispensary,Government,,,,,HOSP_384,19,21,12,9,0.69,6,Yes,Yes,2026-01-31 07:19:46.302926,0.63,0.55,False
+Late. Sahadev Eknath Nimhan Maternity Home,18.537722,73.795979,Government hospital(PMC),Government,,,,,HOSP_385,21,84,18,73,0.75,3,Yes,Yes,2026-01-31 08:10:46.302926,0.86,0.67,False
+Sahadeo Eknath Nimhan Dispensary,18.5377887,73.7959732,Dispensary,Government,,,,,HOSP_386,18,82,12,58,0.65,8,Yes,Yes,2026-01-31 06:23:46.302926,0.67,0.56,False
+Late. Bapusaheb Genuji Kawade Patil Dawakhana,18.537819,73.898493,Government hospital(PMC),Government,,,,,HOSP_387,24,92,22,71,0.85,18,Yes,Yes,2026-01-31 06:06:46.302926,0.92,0.79,False
+Dr.Sanjay Agarwal's Aegle Clinic,18.538359,73.875842,private clinic,Private,,,,,HOSP_388,9,36,8,17,1.05,34,Yes,Yes,2026-01-31 06:18:46.302926,0.89,0.9,True
+Kaya Skin Clinic,18.5391386,73.8988786,private clinic,Private,,,,,HOSP_389,16,28,12,16,0.76,7,Yes,Yes,2026-01-31 06:29:46.302926,0.75,0.63,False
+Dispensary,18.539337,73.794978,Dispensary,Government,,,,,HOSP_390,20,94,19,57,0.84,23,Yes,Yes,2026-01-31 08:49:46.302926,0.95,0.82,False
+RX Clinic,18.5394259,73.8951133,private clinic,Private,,,,,HOSP_391,20,34,12,27,0.9,31,Yes,Yes,2026-01-31 08:03:46.302926,0.6,0.69,False
+Blush Clinics by Dr Jamuna Pai Pune,18.5406983,73.8795937,private clinic,Private,,,,,HOSP_392,11,43,10,17,0.77,4,Yes,Yes,2026-01-31 07:02:46.302926,0.91,0.7,False
+"Jehangir Oracare Dental Centre - Bhosale Nagar, Pune",18.542725,73.838442,private clinic,Private,,,,,HOSP_393,8,57,5,31,1.04,42,Yes,Yes,2026-01-31 08:43:46.302926,0.62,0.79,False
+Habbu Homoeo Clinic,18.542875,73.8176473,Dispensary,Government,,,,,HOSP_394,5,54,4,48,0.9,33,Yes,Yes,2026-01-31 08:18:46.302926,0.8,0.8,False
+Dr Pandit's Clinic for Dental Excellence & Implant Centre Pune,18.543201,73.785428,private clinic,Private,,,,,HOSP_395,9,68,5,43,0.79,5,Yes,Yes,2026-01-31 06:50:46.302926,0.56,0.54,False
+Express Clinics,18.5451885,73.9095194,private clinic,Private,,,,,HOSP_396,14,88,11,52,0.91,24,Yes,Yes,2026-01-31 08:26:46.302926,0.79,0.76,False
+Hair Science Robotic Hair Transplant clinic in Pune,18.545273,73.829756,private clinic,Private,,,,,HOSP_397,9,81,8,37,0.75,4,Yes,Yes,2026-01-31 08:02:46.302926,0.89,0.69,False
+Katariya Hospitalnan,18.545521,73.88597036,private hospital,Private,,,,,HOSP_398,8,79,5,70,0.89,27,Yes,Yes,2026-01-31 07:38:46.302926,0.62,0.68,False
+Bharat Ratna Late. Rajiv Gandhi Maternity Home,18.545626,73.883893,Government hospital(PMC),Government,,,,,HOSP_399,6,69,4,28,0.78,5,Yes,Yes,2026-01-31 07:46:46.302926,0.67,0.59,False
+Sparkle The Dental Clinic,18.546734,73.901789,private clinic,Private,,,,,HOSP_400,24,97,15,74,1.04,55,Yes,Yes,2026-01-31 08:18:46.302926,0.62,0.84,False
+Late. Lokshahir Annabhau Sathe Dawakhana,18.549598,73.890645,Government hospital(PMC),Government,,,,,HOSP_401,14,94,10,73,0.7,3,Yes,Yes,2026-01-31 06:43:46.302926,0.71,0.58,False
+Gold Rush Hospitalnan,18.5500917,73.93729302,private hospital,Private,,,,,HOSP_402,23,28,18,14,0.89,28,Yes,Yes,2026-01-31 09:01:46.302926,0.78,0.77,False
+Parees Homeopathy Clinic,18.550356,73.893627,Dispensary,Government,,,,,HOSP_403,5,53,3,38,0.88,26,Yes,Yes,2026-01-31 08:58:46.302926,0.6,0.67,False
+Central Government Health Services Dispensary,18.5513194,73.8199604,Dispensary,Government,,,,,HOSP_404,9,95,6,42,0.62,7,Yes,Yes,2026-01-31 07:31:46.302926,0.67,0.55,False
+Shree Hospital Criticare & TraumaCentre Pvt.Ltd.,18.5515319,73.94122124,private hospital,Private,,,,,HOSP_405,17,54,10,28,0.76,14,Yes,Yes,2026-01-31 08:56:46.302926,0.59,0.58,False
+Homeopathy Clinic @ Kharadi Pune,18.551602,73.938706,private clinic,Private,,,,,HOSP_406,8,20,7,15,1.03,40,Yes,Yes,2026-01-31 06:12:46.302926,0.88,0.91,True
+Late. Damodar Ravji Galande Patil Dawakhana,18.551841,73.896929,Government hospital(PMC),Government,,,,,HOSP_407,20,59,13,49,1.01,36,Yes,Yes,2026-01-31 07:16:46.302926,0.65,0.77,False
+The Family Clinic,18.5527212,73.8896446,private clinic,Private,,,,,HOSP_408,20,83,14,58,0.77,6,Yes,Yes,2026-01-31 06:23:46.302926,0.7,0.6,False
+Spinalogy Clinic,18.553231,73.809165,private clinic,Private,,,,,HOSP_409,6,41,3,26,0.95,33,Yes,Yes,2026-01-31 07:49:46.302926,0.5,0.67,False
+Dr. Dixit's Dental Speciality Clinic & Implant Centre,18.5533601,73.8989983,private clinic,Private,,,,,HOSP_410,21,79,16,37,1.11,30,No,Yes,2026-01-31 07:47:46.302926,0.76,0.83,False
+"Richfeel Trichology Centre, Aundh",18.553839,73.805208,private clinic,Private,,,,,HOSP_411,24,83,22,35,1.1,57,Yes,Yes,2026-01-31 08:14:46.302926,0.92,1.02,True
+Dr.Mathesul Dental & Orthodontic Braces Center,18.554616,73.905808,private clinic,Private,,,,,HOSP_412,16,91,12,41,0.68,10,Yes,Yes,2026-01-31 08:53:46.302926,0.75,0.62,False
+Life Active Physiotherapy Clinic,18.555077,73.953214,private clinic,Private,,,,,HOSP_413,22,30,14,15,0.96,17,Yes,Yes,2026-01-31 07:29:46.302926,0.64,0.68,False
+Lotus Clinic (Dr. Prachi Deshpande),18.5551768,73.7961959,private clinic,Private,,,,,HOSP_414,7,33,6,18,0.82,27,Yes,Yes,2026-01-31 06:28:46.302926,0.86,0.78,False
+NuAyurveda Clinic,18.555967,73.807946,private clinic,Private,,,,,HOSP_415,5,79,4,46,1.13,44,No,Yes,2026-01-31 07:54:46.302926,0.8,0.92,True
+Apollo Clinic - Aundh,18.5566259,73.8088255,private clinic,Private,,,,,HOSP_416,5,49,3,28,0.82,16,Yes,Yes,2026-01-31 06:15:46.302926,0.6,0.61,False
+"""MUPPRA"" Kerala Ayurvedic Treatment Centre, Baner, PUNE",18.557115,73.794593,Dispensary,Government,,,,,HOSP_417,23,54,20,28,0.72,13,Yes,Yes,2026-01-31 08:48:46.302926,0.87,0.7,False
+"Sunshine Physiotherapy Clinic ,Pune",18.5576621,73.793673,private clinic,Private,,,,,HOSP_418,15,56,14,36,1.04,33,Yes,Yes,2026-01-31 07:56:46.302926,0.93,0.91,True
+Aggarwal Speciality Clinic,18.5578419,73.9089308,private clinic,Private,,,,,HOSP_419,9,24,5,19,0.73,5,Yes,Yes,2026-01-31 07:25:46.302926,0.56,0.52,False
+Spark The Skin Hair Laser Clinic,18.5582664,73.9280038,private clinic,Private,,,,,HOSP_420,16,97,14,52,1.16,58,No,Yes,2026-01-31 08:16:46.302926,0.88,1.02,True
+Ashwini Eye Care Clinic,18.5584909,73.7918017,private clinic,Private,,,,,HOSP_421,7,45,6,39,1.15,46,No,Yes,2026-01-31 08:00:46.302926,0.86,0.96,True
+ENT & Vertigo Clinic,18.5587283,73.7912102,private clinic,Private,,,,,HOSP_422,5,81,3,67,0.91,17,Yes,Yes,2026-01-31 07:34:46.302926,0.6,0.64,False
+Elite Dental Clinic,18.5599961,73.789163,private clinic,Private,,,,,HOSP_423,5,23,3,11,0.64,14,Yes,Yes,2026-01-31 07:48:46.302926,0.6,0.55,False
+Skin City India - Skin Care and Hair Fall Treatment Specialist in Aundh,18.560076,73.809611,private clinic,Private,,,,,HOSP_424,12,61,7,48,0.92,32,Yes,Yes,2026-01-31 06:45:46.302926,0.58,0.69,False
+"Dr. Ravi Kothari, Sparsh Skin Care Clinic",18.560391,73.808357,private clinic,Private,,,,,HOSP_425,14,37,13,25,0.73,10,Yes,Yes,2026-01-31 07:23:46.302926,0.93,0.72,False
+Divya Eye Clinic,18.5604318,73.8126775,private clinic,Private,,,,,HOSP_426,15,59,14,40,0.69,8,Yes,Yes,2026-01-31 07:35:46.302926,0.93,0.7,False
+Dr. Pharande's Orthodontic & Dental Clinic,18.5605554,73.8045591,private clinic,Private,,,,,HOSP_427,16,91,13,54,1.06,54,Yes,Yes,2026-01-31 08:46:46.302926,0.81,0.94,True
+Women's Clinic,18.5610659,73.8129524,private clinic,Private,,,,,HOSP_428,17,58,13,37,0.73,10,Yes,Yes,2026-01-31 08:45:46.302926,0.76,0.64,False
+Mrunmayee Health Cear Pvt. Ltd.(Sangamnerkar Hospital),18.561147,73.92141073,private hospital,Private,,,,,HOSP_429,16,33,13,19,0.83,33,Yes,Yes,2026-01-31 08:09:46.302926,0.81,0.79,False
+Dental Hub - Orthodontic Dental Clinic Baner Pune,18.561429,73.785913,private clinic,Private,,,,,HOSP_430,18,51,15,34,1.14,34,No,Yes,2026-01-31 07:22:46.302926,0.83,0.89,True
+Smile Essentials Family Dental Clinic,18.5617281,73.9492295,private clinic,Private,,,,,HOSP_431,6,70,4,49,0.77,9,Yes,Yes,2026-01-31 07:06:46.302926,0.67,0.6,False
+Skin Specialist in pune Viman Nagar clinic,18.561823,73.920425,private clinic,Private,,,,,HOSP_432,23,57,14,42,0.73,7,Yes,Yes,2026-01-31 06:30:46.302926,0.61,0.55,False
+Vishwa Multispeciality Clinic & Diagnostics,18.5618806,73.7854531,private clinic,Private,,,,,HOSP_433,22,42,20,27,1.13,37,No,Yes,2026-01-31 06:50:46.302926,0.91,0.94,True
+Kotbagi  Hospital Pvt. Ltd.,18.5619453,73.8048489,private hospital,Private,N.A.,N.A.,N.A.,N.A.,HOSP_434,7,82,5,62,0.67,14,Yes,Yes,2026-01-31 09:00:46.302926,0.71,0.61,False
+Dispensary Clinic,18.5623609,73.8029859,Dispensary,Government,,,,,HOSP_435,21,34,19,16,1.05,34,Yes,Yes,2026-01-31 07:16:46.302926,0.9,0.9,True
+Medipoint Hospitalnan,18.5626131,73.93375615,private hospital,Private,,,,,HOSP_436,12,44,8,22,1.09,46,Yes,Yes,2026-01-31 07:09:46.302926,0.67,0.85,False
+K.Baburao Genba Shewale Dispensary,18.562649,73.832739,Dispensary,Government,,,,,HOSP_437,14,36,8,29,1.02,34,Yes,Yes,2026-01-31 08:35:46.302926,0.57,0.73,False
+Late. Baburao Genba Shevale Dawakhana,18.562739,73.832653,Government hospital(PMC),Government,,,,,HOSP_438,6,85,3,47,0.88,18,Yes,Yes,2026-01-31 08:05:46.302926,0.5,0.59,False
+Aundh Kuti Maternity Home,18.562805,73.810015,Government hospital(PMC),Government,,,,,HOSP_439,23,97,18,39,0.79,8,Yes,Yes,2026-01-31 06:59:46.302926,0.78,0.66,False
+Dr. Damle Skin clinic,18.5628057,73.9325977,private clinic,Private,,,,,HOSP_440,13,72,12,34,0.8,5,Yes,Yes,2026-01-31 07:26:46.302926,0.92,0.72,False
+Kohkade Hospitalnan,18.5628385,73.93184179,private hospital,Private,,,,,HOSP_441,11,70,7,35,1.0,16,Yes,Yes,2026-01-31 08:47:46.302926,0.64,0.68,False
+Vitalife clinic,18.563971,73.783057,private clinic,Private,,,,,HOSP_442,8,58,7,50,1.1,40,Yes,Yes,2026-01-31 07:17:46.302926,0.88,0.93,True
+Dr. Pawar's Dental Clinic,18.564006,73.949777,private clinic,Private,,,,,HOSP_443,22,70,17,48,0.89,27,Yes,Yes,2026-01-31 08:21:46.302926,0.77,0.76,False
+Indira IVF Pune,18.564151,73.907138,private clinic,Private,,,,,HOSP_444,17,89,15,77,0.79,14,Yes,Yes,2026-01-31 07:44:46.302926,0.88,0.73,False
+"Dental Clinic in Baner, Pune - Jehangir Oracare Dental Centre",18.564407,73.775071,private clinic,Private,,,,,HOSP_445,15,25,10,17,0.66,8,Yes,Yes,2026-01-31 06:22:46.302926,0.67,0.57,False
+Apollo Clinic - Viman Nagar,18.5645194,73.9139048,private clinic,Private,,,,,HOSP_446,8,86,7,55,0.71,7,Yes,Yes,2026-01-31 08:56:46.302926,0.88,0.68,False
+PhysioActive- Speciality Physiotherapy Clinic,18.56455,73.907447,private clinic,Private,,,,,HOSP_447,8,26,7,14,1.02,51,Yes,Yes,2026-01-31 06:43:46.302926,0.88,0.95,True
+Dispensary - Dr. B. T. Wani,18.5646672,73.8110299,Dispensary,Government,,,,,HOSP_448,14,70,9,49,0.8,13,Yes,Yes,2026-01-31 07:18:46.302926,0.64,0.61,False
+Aster Dental Clinic,18.56498,73.917462,private clinic,Private,,,,,HOSP_449,9,91,5,42,1.02,36,Yes,Yes,2026-01-31 08:56:46.302926,0.56,0.73,False
+"'MUPPRA"" Kerala Ayurvedic Treatment Centre, Viman Nagar, Pune",18.565275,73.915375,Dispensary,Government,,,,,HOSP_450,13,61,12,51,1.05,57,Yes,Yes,2026-01-31 07:28:46.302926,0.92,1.0,True
+Jeevan Jyot Clinic,18.5653687,73.9141944,private clinic,Private,,,,,HOSP_451,7,83,6,67,0.75,7,Yes,Yes,2026-01-31 07:30:46.302926,0.86,0.68,False
+Ashwini Homoeopathic Clinic & Pharmacy,18.5656118,73.8069084,private clinic,Private,,,,,HOSP_452,21,34,12,18,0.88,31,Yes,Yes,2026-01-31 07:59:46.302926,0.57,0.67,False
+Yash Clinic,18.5657754,73.7823362,private clinic,Private,,,,,HOSP_453,7,48,6,42,0.87,34,Yes,Yes,2026-01-31 06:13:46.302926,0.86,0.83,False
+Vatsalya Women's Clinic,18.5661755,73.8071905,private clinic,Private,,,,,HOSP_454,20,52,19,42,0.97,23,Yes,Yes,2026-01-31 08:25:46.302926,0.95,0.86,True
+The Family Doctor and The Family Pharma Viman Nagar,18.566384,73.913643,private clinic,Private,,,,,HOSP_455,8,46,7,33,1.03,43,Yes,Yes,2026-01-31 07:43:46.302926,0.88,0.92,True
+Sai Clinic,18.5668834,73.9182365,private clinic,Private,,,,,HOSP_456,22,55,21,25,1.09,55,Yes,Yes,2026-01-31 07:40:46.302926,0.95,1.02,True
+Trust Clinic,18.56839,73.882239,private clinic,Private,,,,,HOSP_457,21,48,18,30,1.08,41,Yes,Yes,2026-01-31 07:36:46.302926,0.86,0.92,True
+Sanjay Gandhi Maternity Home,18.571104,73.838294,Government hospital(PMC),Government,,,,,HOSP_458,11,57,8,37,0.75,8,Yes,Yes,2026-01-31 07:38:46.302926,0.73,0.62,False
+Renu Hospital,18.5719383,73.83759855,private hospital,Private,,,,,HOSP_459,9,76,6,39,0.62,3,Yes,Yes,2026-01-31 07:31:46.302926,0.67,0.53,False
+"Siddharth Dawakhana, Vishrantwadi",18.572164,73.878738,Government hospital(PMC),Government,,,,,HOSP_460,16,46,11,20,0.98,33,Yes,Yes,2026-01-31 07:38:46.302926,0.69,0.77,False
+Dr Poonam's ENT Clinic,18.5740712,73.7767044,private clinic,Private,,,,,HOSP_461,21,74,18,58,0.71,5,Yes,Yes,2026-01-31 08:20:46.302926,0.86,0.66,False
+HealthBay Clinic,18.574537,73.773599,private clinic,Private,,,,,HOSP_462,17,52,15,23,0.82,30,Yes,Yes,2026-01-31 06:47:46.302926,0.88,0.81,False
+Arogya diagnostic clinic,18.5750263,73.7697739,private clinic,Private,,,,,HOSP_463,7,87,4,60,0.57,14,Yes,Yes,2026-01-31 06:19:46.302926,0.57,0.51,False
+Spandan Clinic,18.57594,73.892962,private clinic,Private,,,,,HOSP_464,13,85,12,73,1.02,41,Yes,Yes,2026-01-31 07:50:46.302926,0.92,0.93,True
+Khrist. Rok Edward Poul Dawakhana,18.577003,73.899032,Government hospital(PMC),Government,,,,,HOSP_465,21,29,18,24,0.74,6,Yes,Yes,2026-01-31 08:28:46.302926,0.86,0.68,False
+Dr AD Upadhyay's clinic DGCA Class I Medical Examiner,18.577979,73.894043,private clinic,Private,,,,,HOSP_466,21,24,17,12,0.97,20,Yes,Yes,2026-01-31 07:23:46.302926,0.81,0.78,False
+Late. Genba Tukaram Mhaske Dawakhana,18.578015,73.874962,Government hospital(PMC),Government,,,,,HOSP_467,24,93,18,76,1.12,52,No,Yes,2026-01-31 06:28:46.302926,0.75,0.92,True
+Ct Nursing Homenan,18.59711,73.90164403,private hospital,Private,,,,,HOSP_468,20,57,16,22,0.68,12,Yes,Yes,2026-01-31 06:14:46.302926,0.8,0.65,False

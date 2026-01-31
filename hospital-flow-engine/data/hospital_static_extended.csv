@@ -1,0 +1,470 @@
+name,facility_type,icu_beds_total,ward_beds_total,trauma_supported,max_daily_admissions
+Bharti Homeopathic Hospitalnan,private hospital,24,161,No,41
+Bharti Hospitalnan,private hospital,26,164,Yes,49
+Bharti Ayurved Hospitalnan,private hospital,28,166,Yes,46
+Yugpurush Raja Shiv Chatrapati Bibvewadi (Appar) Pune manapa,Government hospital(PMC),30,136,Yes,44
+Trimurti Hospital,private hospital,36,130,No,33
+Eye Clinic,private clinic,32,115,No,32
+Adate General Hospital,private hospital,35,68,No,18
+Sidhhi Hospital Laproscopy Center,private hospital,36,184,No,48
+Rakshak Multi Specility Hospital,private hospital,35,167,Yes,53
+rejuva skin clinic,private clinic,26,91,No,25
+Chaitanya Nursing Homenan,private hospital,32,91,No,21
+Anand Hospitalnan,private hospital,21,108,No,31
+Modi Clinicnan,private hospital,34,69,No,16
+Pawar Hospital,private hospital,38,122,No,28
+Chordiya Nursing Home,private hospital,37,66,Yes,13
+Disha Nursing Homenan,private hospital,21,76,No,15
+Sharad Hospital,private hospital,23,51,Yes,11
+Sarwat Hospital,private hospital,15,112,No,35
+Satyanand  Hospital,private hospital,40,111,No,29
+Unity Ortho & Eyes Hospital,private hospital,20,149,Yes,35
+Anand Hospital,private hospital,20,68,No,21
+Pbmas H.V.Desai Hospital,private hospital,36,66,Yes,17
+Wadekar Nursing Home (MaternityHome & Dispensary),private hospital,26,118,Yes,24
+Dr. Bhagli Nursing Home,private hospital,36,166,Yes,39
+Dr. Bhagli Clinic,private hospital,26,130,No,33
+Parasnis Hospital,private hospital,24,88,No,28
+Shubham Skin Clinic,private clinic,37,85,No,23
+Chintamani Hospital,private hospital,40,181,Yes,42
+Chintamani Hospital,private hospital,20,78,No,19
+Chintamani Hospital,private hospital,31,100,No,21
+Chintamani Hospital,private hospital,33,63,Yes,17
+Late. Minatai Thakare Maternity Home,Government hospital(PMC),32,118,Yes,26
+Late. Shivshankar Pote Dawakhana,Government hospital(PMC),20,195,Yes,48
+Sangam Hospital,private hospital,38,106,No,22
+"Sahydri Hospital Ltd. SahyadriHospital, Bibvewadi",private hospital,33,61,No,15
+Dr.Karne Women's Clinic,private clinic,24,66,No,21
+Jagtap Hospital,private hospital,38,79,Yes,21
+Physiotherapy Clinic Pune NIBM,private clinic,22,137,No,32
+Pharande Eye Hospital & PhacoCenter,private hospital,35,148,Yes,33
+Pune Center Of Homoeopathy Dr.Upasani's clinic,private clinic,38,72,Yes,16
+Dr.Chavan Clinic,private clinic,20,178,No,46
+Madhukar General Hospital,private hospital,35,128,Yes,39
+Patil Hospital,private hospital,39,81,No,25
+Patil Hospital,private hospital,21,58,Yes,12
+Patil Hospital,private hospital,38,64,No,15
+Patil Hospital,private hospital,15,76,Yes,17
+"Apollo Clinic - Wanowrie, Pune",private clinic,32,158,No,46
+Ashirwad Hospital,private hospital,38,125,Yes,36
+Sadguru Nursing Home,private hospital,39,197,Yes,49
+Sparsh Skin & ENT Clinic,private clinic,34,114,No,29
+Bhaktiii Group of Homoeopathy Dispensaries,Dispensary,26,158,Yes,33
+Arcus Clinic,private clinic,30,178,No,57
+Prarthna Clinic,private clinic,24,59,No,17
+INAMDAR MULTISPECIALITY HOSPITAL,Dispensary,24,96,Yes,25
+"Late. Prathak Barate Dawakhana, Warje Malwadi",Government hospital(PMC),28,172,Yes,40
+Psychiatrist in Pune - The Rational Psychiatrist Dr Manish Bajpayee,private clinic,39,108,No,34
+Rao Nursing Home,private hospital,34,145,No,30
+Kilbil Clinic,private clinic,24,152,No,39
+Lata Mangeshkar MedicalFoundation's Mai Mangeshkar Hospital,private hospital,24,173,No,52
+Grant Medical Foundetion Ruby HollClinic- Wanovari,private hospital,40,135,No,35
+"PMC Dawakhana, Pune",Government hospital(PMC),39,195,Yes,54
+Vinayak Hospital,private hospital,25,161,No,50
+Vinayak Hospital,private hospital,37,76,No,16
+Vinayak Hospital,private hospital,16,67,Yes,21
+Vinayak Hospital,private hospital,39,131,Yes,41
+Walimbe Eye Clinic,private clinic,34,121,Yes,36
+"Neuro Psychiatry Clinic, Pune",private clinic,22,103,Yes,29
+Navjeevan Nursing Home,private hospital,37,120,No,32
+Navjeevan Nursing Home,private hospital,21,195,Yes,58
+Navjeevan Nursing Home,private hospital,22,87,Yes,28
+Navjeevan Nursing Home,private hospital,15,186,Yes,61
+Kothari Hospitalnan,private hospital,35,84,No,18
+"ASHA SKIN, HAIR & LASER CLINIC",private clinic,16,131,No,32
+Late. Vijayabai Shirke Aarogya Kendra,Government hospital(PMC),32,182,Yes,58
+Dr. Vaijayanti V. Bodas,private clinic,29,191,Yes,52
+Late. Arvind Ganpat Bartakke Dawakhana,Government hospital(PMC),15,53,No,12
+Zanwar Eye Hospitalnan,private hospital,19,199,No,46
+Mother Hope Fertility Clinic,private clinic,16,72,Yes,23
+Mother Home Fartility Clinicnan,private hospital,34,97,Yes,22
+Kamla Nursing Home,private hospital,17,197,Yes,57
+NANDINI CLINIC,private clinic,33,174,Yes,52
+"Nuleaf Hair Transplant Centre, Pune",private clinic,32,104,No,31
+Yashshree Maternity & Nursing Homenan,private hospital,36,117,No,27
+Dr. Bande Hospital,private hospital,32,137,Yes,41
+Dugad Hospital,private hospital,28,50,No,15
+Express Clinics Pvt Ltd,private clinic,38,184,Yes,36
+Late. Indumati Manilal Khanna Dawakhana,Government hospital(PMC),22,144,No,43
+Aadhar Hospitalnan,private hospital,26,189,No,46
+Ivory Dental Clinic,private clinic,35,155,Yes,49
+I - Care Clinic,private clinic,24,182,Yes,57
+Skin City,private clinic,37,157,No,33
+Janani Nursing Home,private hospital,34,91,Yes,22
+Shashwat Health Pvt.Ltd ShashwatHospital.,private hospital,31,151,Yes,38
+"Ranka Medical Foundetion, RankaHospital",private hospital,25,173,No,51
+Devyani Multy Speciality Hospital,private hospital,16,189,No,47
+Rukhmini Hospital,private hospital,40,152,Yes,45
+Dr Rane's Dispensary,Dispensary,40,195,No,40
+Karne Hospital Pvt. Ltd. OrthopedicNursing Home,private hospital,18,123,Yes,35
+Devyani Hospital Surguri Maternity & General Nursing Home,private hospital,15,157,No,36
+Lokmanya Hospital Pvt. Ltd.,private hospital,29,171,No,44
+Bharatratna Dr. Babasaheb Ambedkar Dawakhana,Government hospital(PMC),27,66,No,20
+Date Hospitalnan,private hospital,22,120,Yes,35
+Bindu Madhav Thakare Dawakhana,Government hospital(PMC),39,111,No,34
+Ent Hospitalnan,private hospital,18,90,No,28
+"Dental Sphere: Best Dentist in Pune, Dental Clinic in Mukund Nagar, Swargate, Pu",private clinic,24,168,Yes,34
+Yashwant Eye Clinic & Hospitalnan,private hospital,33,94,Yes,26
+Rajamata Jijau Maternity Home,Government hospital(PMC),32,107,Yes,22
+Late. Namdevrao Shivarkar Maternity Home,Government hospital(PMC),19,175,Yes,35
+Dr. Tekawade Eye Clinic & Laser Centre,private clinic,33,93,No,27
+"Hindu Ruday Samrat, Shivsena Pramukh, Balasheb Thakre Dawakhana",Government hospital(PMC),40,64,Yes,13
+Dr. Purohit Maternity Hospitalnan,private hospital,37,127,Yes,36
+Shahade Hospitalnan,private hospital,36,119,No,29
+Parvati General Hospitalnan,private hospital,30,150,Yes,37
+Homoeopathic Dispensary,Dispensary,15,52,No,14
+Mehta Nursing Home,private hospital,26,135,Yes,27
+Suyash Hospityal,private hospital,38,123,No,38
+Harjeevan Hospitalnan,private hospital,16,100,No,25
+Dr.Patankar Medical Foundetion &Patankar Hospital Pvt. Ltd.,private hospital,35,116,No,34
+Parvati General Hospital,private hospital,39,125,Yes,39
+Prabhudesai Eye Clinic,private clinic,22,142,No,35
+Prabhudesai Eye Clinic,private clinic,32,194,Yes,50
+Prabhudesai Eye Clinic,private clinic,39,56,Yes,13
+Prabhudesai Eye Clinic,private clinic,30,62,Yes,19
+"ADVANCED STROKE & PARALYSIS CLINIC, Pune Specialist Doctor . India",private clinic,19,169,No,33
+Dr. Karawa Hospital MaternitySurgical & General Hospital,private hospital,40,115,Yes,33
+Prabhu Desai Eye Clinic,private hospital,36,53,No,13
+Tanmay Nursing Home,private hospital,27,187,Yes,37
+Sanjeevani Nursing Home,private hospital,33,137,Yes,34
+Sanjeevani Nursing Home,private hospital,17,66,No,17
+Sanjeevani Nursing Home,private hospital,40,101,Yes,20
+Sanjeevani Nursing Home,private hospital,22,183,No,43
+Sharada Clinic,private hospital,40,118,Yes,31
+Ratnadeep  Hospital,private hospital,40,186,No,46
+Tupe Hospital,private hospital,26,70,No,15
+Colony Nursing Homenan,private hospital,16,73,Yes,22
+Hand Surgery Clinics,private clinic,25,53,Yes,16
+Usha Kiran Hospital,private hospital,26,52,No,12
+Aliance Munot Hospital,private hospital,32,117,No,24
+Zanzurne Accident Hospital,private hospital,27,150,Yes,36
+Deenannath Mangeshkar Hospital,private hospital,19,103,Yes,24
+Chavan Nursing Homenan,private hospital,36,84,No,21
+Alatkar Hospital,private hospital,26,105,No,24
+Alatkar Hospital,private hospital,16,157,Yes,48
+Alatkar Hospital,private hospital,19,89,Yes,25
+Alatkar Hospital,private hospital,21,117,Yes,25
+Sawan Kirpal Ruhani Mission (SKRM) - Kirpal Ashram,Dispensary,40,95,No,30
+Meera Hospital,private hospital,40,127,Yes,38
+Cyber Allergy Clinic,private clinic,38,190,No,61
+Skin specialist in Pune kothrud clinic,private clinic,26,55,Yes,12
+Physiotherapy Clinic,private clinic,30,66,Yes,18
+Late. Anandibai Narhar Gadgil Dawakhana,Government hospital(PMC),37,148,No,39
+Gokhale Hospitalnan,private hospital,22,130,No,41
+Dr. Purandare Maternity Homenan,private hospital,23,51,No,16
+Z Plus Accident Hospital & NursingHome,private hospital,29,126,Yes,35
+Health Point Polyclinic,private clinic,19,115,No,25
+Lotus Hospital,private hospital,27,101,No,20
+Dr Batra's,private clinic,19,141,Yes,41
+Nadkarni Clinic,private clinic,25,71,Yes,19
+"Sahyadri Hospital Ltd, Hadapsar.",private hospital,24,160,Yes,39
+Late. Matoshri Ramabai Ambedkar Maternity Home,Government hospital(PMC),34,156,Yes,35
+Apolo Speciality Hospitals Pvt. Ltd.,private hospital,27,116,No,33
+Nova Pluse Ivf Clinic Pvt. Ltd.,private hospital,23,189,Yes,44
+Pune Dental Clinic,private clinic,35,118,No,24
+"Nova IVI Fertility Clinic Pune, Maharastra",private clinic,28,133,No,40
+Late. Annasaheb Magar Maternity Home,Government hospital(PMC),32,152,No,41
+Smile N Shine,private clinic,29,88,No,17
+Inamdar Hospital ( C.I.M.E.T.),private hospital,24,62,Yes,12
+Nobel  Hospital,private hospital,38,90,Yes,21
+Surgical Nursing Homenan,private hospital,21,106,Yes,26
+Dr. Deshmukh Hospitalnan,private hospital,22,61,No,19
+Sane Guruji Aarogya Kendra,private hospital,17,62,Yes,16
+Late. Jayabai Nanasaheb Sutar Maternity Home,Government hospital(PMC),29,169,No,41
+Amey Clinic Maternity & GynaeSurgical Home,private hospital,30,146,Yes,29
+Noble Hospital,private hospital,18,106,Yes,32
+Kelkar Pediatric Hospital (Children),private hospital,35,89,Yes,17
+Janta Vasahat Dawakhana,Government hospital(PMC),20,167,No,45
+Vibhute Hospitalnan,private hospital,15,129,No,29
+"Healing Hands Clinic, Tilak Road",private clinic,18,177,Yes,44
+Tooth Clinic,private clinic,25,84,No,21
+Lapro Obeso Centernan,private hospital,26,52,Yes,12
+Bhide Hospital Balrog Vibhagnan,private hospital,40,169,No,45
+Bhide Hospital Orthopedic Divissionnan,private hospital,19,54,No,10
+Late. Savitribai Phule Maternity Home,Government hospital(PMC),37,60,Yes,15
+Novo Grace Skin Clinic,private clinic,35,175,No,49
+Dr Jagtap Dispensary,Dispensary,30,120,Yes,37
+Jeevan Sadhana Clinic,private clinic,27,166,No,40
+Anand Maternity & Nursing Homenan,private hospital,27,187,Yes,46
+Late. Chandu Mama Sonawane Maternity Home,Government hospital(PMC),31,155,No,39
+Shri Dashabhuja X-Ray Clinic,private clinic,21,165,Yes,49
+Amey Nursing Homenan,private hospital,22,116,No,31
+Eternis Skin & Hair clinic,private clinic,27,80,No,18
+Day Care  Orthopedic Hospitalnan,private hospital,37,124,No,34
+Neo Hospitalnan,private hospital,30,120,No,35
+Homeo Care Clinic,private clinic,18,115,No,32
+Dr. Chitale Ent Hospitalnan,private hospital,22,119,Yes,31
+Ashwini Hospitalnan,private hospital,30,90,Yes,18
+Dr. Pabalkar Nursing Homenan,private hospital,35,69,Yes,13
+"Late. Tharkude Dawakhana, Erandwana",Government hospital(PMC),24,189,No,61
+Chinmay Nursing Homenan,private hospital,39,88,Yes,27
+Wagh Eye Clinic,private clinic,26,194,No,59
+"Skiin Bliss Clinic, Pune",private clinic,26,94,No,21
+Aashtang Ayurved Rugnalayanan,private hospital,40,188,Yes,43
+N. M. Wadia Hospitalnan,private hospital,19,119,Yes,27
+Deshpande X - Ray & Sonography Clinic,private clinic,30,174,Yes,47
+Parvati Netra Chikitsalyanan,private hospital,15,200,Yes,46
+Dr. Manoj Chinchwadkar's Critical Ultrasonography Clinic,private clinic,23,140,Yes,35
+HomeoCureâ„¢ Homeopathy Clinic,private clinic,26,119,Yes,23
+"Sahyadri Hospital, Kothrud",private hospital,19,179,No,58
+Vision Eye Center,private hospital,36,133,No,29
+Bakshi Hospital,private hospital,34,138,Yes,38
+Sammohini Clinicnan,private hospital,36,128,Yes,27
+Specialty Eye Clinics,private clinic,38,162,Yes,44
+Chandrama Clinicnan,private hospital,17,142,No,33
+Dr. Bhange's Eye Day Care Centernan,private hospital,19,121,No,34
+Shantalaxmi Clinicnan,private hospital,16,98,Yes,25
+Late. Balaji Rakhmaji Gaikwad Dawakhana,Government hospital(PMC),28,101,Yes,23
+Homeopathic Clinic,private clinic,16,82,No,19
+Dr. Swanand S. Gholap,private clinic,27,71,No,20
+Jog Hospital,private hospital,21,163,Yes,53
+Bidaye Hospital Pvt.Ltd.,private hospital,24,182,No,46
+Krishna Hospital,private hospital,27,67,Yes,20
+Nachiket Hospital,private hospital,30,167,Yes,33
+Dwidal Nursing Home,private hospital,40,166,No,39
+Ramkrishna  Hospitalnan,private hospital,28,86,No,23
+Kulkarni Endo Surgery  Institute & Re-Effective Urologist Center,private hospital,25,113,Yes,32
+Gholap Clinic,private clinic,24,187,No,59
+Dhodu Mama Sathe HospitalVaidykiya Mahavidyalaya,private hospital,20,128,Yes,31
+Lokmanya Hospital,private hospital,18,172,No,43
+"Best Liposuction, Gynecomastia, Nose Cosmetic Surgery Clinic in Pune - Cosmetic",private clinic,35,93,Yes,27
+"Life Force Homeopathy Clinic, Paud Road, Pune",private clinic,15,131,No,33
+Madhavrao Rande Memorial Hospital(Sanjivan Hospital),private hospital,21,136,No,35
+Cosmetic Laser Surgery Center,private clinic,38,65,Yes,13
+Patwardhan Eye Clinic,private clinic,23,103,No,21
+Niranjan Nursing Homenan,private hospital,22,151,No,42
+Naik Orthopadic Hospital,private hospital,19,147,No,41
+Yogesh Hospitalnan,private hospital,33,51,Yes,16
+Sarpotdar Eye Hospital,private hospital,24,143,No,31
+Dr. Tandulwadkar's Solo Clinic,private clinic,25,190,No,62
+Dr. Vaidya Skin and Laser Treatment Clinic,private clinic,39,108,Yes,28
+Poona Hospital & Reasarch Centernan,private hospital,29,118,No,34
+Godbole Hospitalnan,private hospital,20,168,Yes,49
+Bai Bhikayji Pestanji Bammanji Dawakhana,Government hospital(PMC),29,141,Yes,29
+Late. Rohidas Kirad Dawakhana,Government hospital(PMC),19,94,No,30
+Galaxcy Care Laproscopy Institute Pvt.Ltd.,private hospital,33,197,No,56
+Manoj Clinicnan,private hospital,36,73,No,21
+Deodhar Eyes Hospital,private hospital,33,140,Yes,42
+Nanal Hospital,private hospital,24,143,No,28
+Late. Sundarabai Ganpatrao Raut Dawakhana,Government hospital(PMC),26,107,Yes,24
+Dr. Paranjpe Gynae Hospitalnan,private hospital,36,177,Yes,44
+Dr Tendulkar's Dispensary,Dispensary,18,56,Yes,14
+Dr Shridhar Chiplunkar,private clinic,32,96,No,23
+Late. Kotnis Aarogya Kendra,Government hospital(PMC),30,102,No,28
+Laxmi Prasutigruh & Jeevan JoytiHospital,private hospital,22,87,No,23
+Chiranjeev Clinic,private clinic,18,102,No,27
+Vitalife Clinic,private clinic,39,192,Yes,53
+Late.Malti Kachi Maternity Home,Government hospital(PMC),37,97,No,29
+Dr. Ranade Hospitalnan,private hospital,26,144,Yes,40
+Nursing Homenan,private hospital,16,196,Yes,61
+Shintre Hospitalnan,private hospital,18,186,Yes,57
+Dabake Maternity & General NursingHome,private hospital,19,113,No,34
+Mahatma Gandhi Hospitalnan,private hospital,17,142,No,32
+Konkan Mitra Mandal Trust's SahyadriSpeciality Hospital,private hospital,23,174,No,49
+Parivartan Ayurved Hospital,private hospital,35,88,Yes,26
+Shining Smiles Orthodontic & Multispeciality Dental Clinic,private clinic,32,53,Yes,12
+Eye Hospital (Dr. Bhat's Eye CareCenter),private hospital,25,175,No,56
+Laxmi Clincnan,private hospital,17,52,Yes,14
+Sharada Clinic Shaishav Clinicnan,private hospital,39,113,No,34
+"Sathe Eye Clinic, Day Care Clinicnan",private hospital,37,78,No,25
+Sutika Seva Mandirnan,private hospital,16,165,Yes,51
+Best ivf infertility specialist in Pune Pcmc - Xenith Clinic,private clinic,23,60,No,14
+Dr. Tarabai Limye Hospitalnan,private hospital,28,146,No,43
+Kirad Hospital,private hospital,18,151,Yes,36
+Richfeel Trichology Centre,private clinic,23,70,No,20
+Sarswati Vilas Hospitalnan,private hospital,27,88,Yes,22
+Dr.Ketkar Ent Hospitalnan,private hospital,32,151,No,32
+Lathi Hospital & Surgical NursingHome,private hospital,29,95,No,25
+Netra Seva Kendra (Jan Kalyan EyeBank),private hospital,24,115,No,27
+Late. Kalavatibai Mavale Dawakhana,Government hospital(PMC),30,140,No,45
+Samvedan Ent & Eye Care Center,private clinic,26,160,Yes,39
+V.V And Co.,Dispensary,34,131,No,42
+Dr. Manohar Gadre,Dispensary,19,172,Yes,53
+Sathe Hospitalnan,private hospital,16,148,No,29
+Late. Mamasaheb Badade Dawakhana,Government hospital(PMC),24,84,No,16
+"Lasik Laser Cataract Eye Surgery, Eye Clinic Specialist In Pune",private clinic,15,152,Yes,39
+Renu Maternity & Nursing Home,private hospital,21,178,Yes,46
+Dr. Khurd Maternity Homenan,private hospital,40,74,No,21
+S.P. Deshpande Eye Clinicnan,private hospital,31,92,No,24
+Hutatma Babu Genu Dawakhana,Government hospital(PMC),30,133,Yes,35
+Shreeyash Hospitalnan,private hospital,38,100,Yes,32
+"Orthodontic, Dental clinic, Dental implant, Root canal, Teeth whitening, Deccan",private clinic,17,179,Yes,51
+Asha Kiran Hospitalnan,private hospital,28,175,No,52
+Yashada Hospital,private hospital,24,118,Yes,26
+Dr Deven Raisoni,Dispensary,36,58,No,18
+Hrishikesh Healthcare Pvt. Ltd.,private hospital,21,51,Yes,10
+Painex - Pain Clinic in Pune,private clinic,40,59,No,18
+Saikrupa Nursing Homenan,private hospital,31,163,Yes,50
+Chaitanya Eye Clinic & Phaco Centrenan,private hospital,20,125,No,32
+Vassan Eye Care Hospital,private hospital,37,134,Yes,33
+Mahrashtra Medical Foundetion JoshiHosptial,private hospital,36,98,No,24
+Ghaisas Ent Hospitalnan,private hospital,18,119,Yes,28
+Gandhi Accident & General Hospitalnan,private hospital,31,180,No,56
+Wagdarikar Hospital,private hospital,23,182,No,44
+Pearl Womens Hospital & Yash Ivf`,private hospital,18,139,Yes,30
+Sheth Tarachand RamanathCharitable Aurvedic Hospital,private hospital,21,75,No,24
+Phadke Hospitalnan,private hospital,37,121,No,38
+Paranjpe Eye Clinic,private clinic,16,54,Yes,13
+Gupte Hospital of Acurate DaigonesticPvt.Ltd.,private hospital,31,64,Yes,18
+The Cedar Clinic Infertility Center,private clinic,38,172,Yes,50
+Children Hospital,private hospital,22,193,No,52
+Jabde Hospitalnan,private hospital,37,50,No,10
+Deccan Centernan,private hospital,29,193,Yes,44
+Gupte Hospital,private clinic,29,52,No,11
+Jijamata Hospitalnan,private hospital,22,96,No,30
+Dhanwantari Hospitalnan,private hospital,30,144,No,34
+Accurate Diagnostic Pvt. Ltd.,private hospital,33,62,No,13
+Samarth Hospitalnan,private hospital,25,169,No,47
+Late. Mukundrao Lele Dawakhana,Government hospital(PMC),16,104,No,25
+K.E.M. Hospitalnan,private hospital,37,198,Yes,64
+Family Doctor Clinic,private clinic,38,115,No,34
+Vision Nextnan,private hospital,31,139,Yes,37
+Visage Skin Clinic,private clinic,40,111,Yes,25
+Universal Hospitalnan,private hospital,30,151,Yes,32
+Surya Hospital Pvt. Ltd. SuryaSahaydri Hospital,private hospital,39,188,No,38
+Skin City India - Best Dermatologist in Camp Pune,private clinic,29,57,No,16
+Dr. Kothari Accident Hospitalnan,private hospital,27,146,Yes,33
+"Dr. Nanal - Sex specialist doctor and clinic pune, sexologist in pune",private clinic,29,166,Yes,50
+Kaluskar Hospital & Laboretorynan,private hospital,18,113,Yes,29
+Late. Jangalrao Kondiba Amrale Dawakhana,Government hospital(PMC),30,70,No,22
+Kalekar Hospital,private hospital,26,164,Yes,51
+Kamala Nehru Hospital (General Hospital),Government hospital(PMC),18,134,No,36
+Polyclinic & Hospitalnan,private hospital,17,69,Yes,22
+Pandit Plastic Surgery Clinic,private clinic,36,57,Yes,18
+Kelkar Hospitalnan,private hospital,31,107,Yes,29
+Prashant Hospital Maternity &General Hospital,private hospital,36,95,Yes,30
+Dr. Manohar Joshi Memorial Hospitalnan,private hospital,32,80,No,20
+Sanjeevan Surgery/ Atharva Netralaya& Reserch Centre,private hospital,39,142,Yes,33
+Surgical & General Nursing Homenan,private hospital,32,58,Yes,13
+Deendayal Memorial Hospitalnan,private hospital,37,64,Yes,15
+Late. Dadasaheb Gaikwad Dawakhana,Government hospital(PMC),31,143,Yes,32
+32 Smiles,private clinic,26,187,Yes,59
+"Dental Sphere: Best Dentist, Dental Clinic on F.C.Road, Deccan, Pune",private clinic,37,78,Yes,23
+Pioneer Medilesar Pvt. Ltd.,private hospital,35,129,No,40
+Dr. Meena Ambule,Dispensary,38,85,No,22
+Dr. Arun Limaye Memorial Nandadip Hospital & Resarch Center Pvt. Ltd.,private hospital,18,133,Yes,39
+Suraj Hospitalnan,private hospital,26,158,Yes,38
+Walvekar Dr Shubhada,private clinic,40,167,No,52
+Maharashtra Medical FoundetionRatna Memorial Hospital,private hospital,37,86,Yes,19
+Rajeshree Shahu Maharaj Dawakhana,Government hospital(PMC),36,135,Yes,40
+Panse Hospital,private clinic,35,120,Yes,30
+Naik Clinic,private clinic,34,200,Yes,44
+Pune Fertility Centre,private clinic,29,142,No,45
+Dr. Homi J. Bhabha Maternity Home,Government hospital(PMC),37,129,Yes,26
+Dr. Suresh Parasnis Dispensary,Dispensary,30,151,No,40
+Sakhi Clinicnan,private hospital,19,63,Yes,17
+Oyster  & Pearl Tulip  Hospitalnan,private hospital,35,166,Yes,40
+Dr. Zine Patil Dispensary - Family Physician,Dispensary,29,122,No,24
+Center For Joint Repleacment Surgarynan,private hospital,31,140,Yes,39
+Sancheti Institute For Orthopedic &Rehabilitaion,private hospital,32,139,No,28
+Sancheti Hospital,private clinic,19,78,Yes,16
+Jehangir Hospital,private hospital,27,98,No,25
+Sushrut  Hospitalnan,private hospital,33,121,Yes,33
+N. M. Wadiya Institute of CardiologyCharitable Trust,private hospital,27,182,No,52
+"Skin City India - Dermatology Clinic in Pune, Hair Transplantation Clinic, Skin",private clinic,32,91,Yes,23
+dentspa best dental clinic in pune,private clinic,28,184,No,58
+Pune Municipal Corpn Dispensaries,Dispensary,18,91,Yes,25
+Atharv Hospitalnan,private hospital,18,154,No,36
+"Life Force Homeopathy Clinic, Sasoon Road, Pune",private clinic,34,76,Yes,20
+Dr. Naidu Hospital,Government hospital(PMC),34,107,No,29
+National Institute of Naturopathy,Dispensary,33,95,Yes,21
+Pashan Dispensary,Dispensary,27,115,Yes,33
+Oyster  & Pearl Hospital Pvt.Ltd.,private hospital,26,74,Yes,19
+Define Aesthetics,private clinic,21,122,Yes,27
+Dr. Gogate Eye Clinic,private hospital,39,166,Yes,34
+Dr Gogate`s Eye Clinic,private clinic,26,178,No,51
+Sai Cosmetic Clinic - Hair Transplant Surgery Clinic & Skin Care Treatment in Pu,private clinic,35,136,No,38
+Best Cardiologist in Pune - Dr. Rahul Patil,private clinic,18,123,Yes,35
+Dr. Wachasunder Ent Clinicnan,private hospital,16,174,No,50
+Dr. Dalvi Maternity Hospital,Government hospital(PMC),16,116,No,33
+Grant Medical Foundetion Ruby HollClinic,private hospital,19,55,Yes,12
+Ruby Hall Clinic,private clinic,37,174,No,36
+Kids Clinic (I) Pvt. Ltd. Cloud NineHospital,private hospital,24,107,No,24
+Late. Sakharam Kundlik Kodre Maternity Home,Government hospital(PMC),24,119,No,38
+Dr. Viral - Cosmetic & Hair Transplant Surgeon,private clinic,23,102,Yes,21
+Morpheus Bliss Fertility Center,private clinic,27,115,No,35
+Four Fountains De-Stress Spa,Dispensary,21,107,Yes,32
+Late. Sahadev Eknath Nimhan Maternity Home,Government hospital(PMC),19,131,Yes,42
+Sahadeo Eknath Nimhan Dispensary,Dispensary,40,136,Yes,30
+Late. Bapusaheb Genuji Kawade Patil Dawakhana,Government hospital(PMC),24,51,No,16
+Dr.Sanjay Agarwal's Aegle Clinic,private clinic,24,199,No,61
+Kaya Skin Clinic,private clinic,20,86,No,26
+Dispensary,Dispensary,33,197,No,49
+RX Clinic,private clinic,35,152,Yes,35
+Blush Clinics by Dr Jamuna Pai Pune,private clinic,22,73,Yes,19
+"Jehangir Oracare Dental Centre - Bhosale Nagar, Pune",private clinic,15,161,Yes,40
+Habbu Homoeo Clinic,Dispensary,31,114,Yes,35
+Dr Pandit's Clinic for Dental Excellence & Implant Centre Pune,private clinic,21,178,No,49
+Express Clinics,private clinic,28,166,No,34
+Hair Science Robotic Hair Transplant clinic in Pune,private clinic,35,165,Yes,36
+Katariya Hospitalnan,private hospital,35,154,Yes,34
+Bharat Ratna Late. Rajiv Gandhi Maternity Home,Government hospital(PMC),31,52,Yes,10
+Sparkle The Dental Clinic,private clinic,23,95,Yes,26
+Late. Lokshahir Annabhau Sathe Dawakhana,Government hospital(PMC),31,104,No,27
+Gold Rush Hospitalnan,private hospital,19,124,No,35
+Parees Homeopathy Clinic,Dispensary,40,94,No,22
+Central Government Health Services Dispensary,Dispensary,39,126,Yes,32
+Shree Hospital Criticare & TraumaCentre Pvt.Ltd.,private hospital,34,73,Yes,16
+Homeopathy Clinic @ Kharadi Pune,private clinic,22,84,Yes,18
+Late. Damodar Ravji Galande Patil Dawakhana,Government hospital(PMC),20,73,No,15
+The Family Clinic,private clinic,25,77,No,19
+Spinalogy Clinic,private clinic,33,65,Yes,15
+Dr. Dixit's Dental Speciality Clinic & Implant Centre,private clinic,18,108,No,23
+"Richfeel Trichology Centre, Aundh",private clinic,32,193,Yes,52
+Dr.Mathesul Dental & Orthodontic Braces Center,private clinic,15,64,No,17
+Life Active Physiotherapy Clinic,private clinic,27,60,No,19
+Lotus Clinic (Dr. Prachi Deshpande),private clinic,28,128,No,32
+NuAyurveda Clinic,private clinic,38,164,No,47
+Apollo Clinic - Aundh,private clinic,15,117,Yes,24
+"""MUPPRA"" Kerala Ayurvedic Treatment Centre, Baner, PUNE",Dispensary,25,92,Yes,21
+"Sunshine Physiotherapy Clinic ,Pune",private clinic,31,118,Yes,38
+Aggarwal Speciality Clinic,private clinic,18,190,Yes,48
+Spark The Skin Hair Laser Clinic,private clinic,40,187,No,43
+Ashwini Eye Care Clinic,private clinic,26,124,No,40
+ENT & Vertigo Clinic,private clinic,24,152,Yes,46
+Elite Dental Clinic,private clinic,20,90,No,29
+Skin City India - Skin Care and Hair Fall Treatment Specialist in Aundh,private clinic,39,108,Yes,33
+"Dr. Ravi Kothari, Sparsh Skin Care Clinic",private clinic,15,88,Yes,26
+Divya Eye Clinic,private clinic,21,52,Yes,16
+Dr. Pharande's Orthodontic & Dental Clinic,private clinic,40,56,Yes,16
+Women's Clinic,private clinic,35,98,Yes,25
+Mrunmayee Health Cear Pvt. Ltd.(Sangamnerkar Hospital),private hospital,30,75,Yes,15
+Dental Hub - Orthodontic Dental Clinic Baner Pune,private clinic,38,150,Yes,46
+Smile Essentials Family Dental Clinic,private clinic,28,128,No,28
+Skin Specialist in pune Viman Nagar clinic,private clinic,37,51,Yes,14
+Vishwa Multispeciality Clinic & Diagnostics,private clinic,34,176,Yes,39
+Kotbagi  Hospital Pvt. Ltd.,private hospital,34,181,Yes,55
+Dispensary Clinic,Dispensary,20,69,No,20
+Medipoint Hospitalnan,private hospital,36,166,Yes,39
+K.Baburao Genba Shewale Dispensary,Dispensary,39,81,No,25
+Late. Baburao Genba Shevale Dawakhana,Government hospital(PMC),19,77,No,15
+Aundh Kuti Maternity Home,Government hospital(PMC),38,126,No,31
+Dr. Damle Skin clinic,private clinic,35,50,No,10
+Kohkade Hospitalnan,private hospital,32,105,Yes,27
+Vitalife clinic,private clinic,29,84,Yes,25
+Dr. Pawar's Dental Clinic,private clinic,20,161,Yes,42
+Indira IVF Pune,private clinic,39,79,No,23
+"Dental Clinic in Baner, Pune - Jehangir Oracare Dental Centre",private clinic,33,103,Yes,31
+Apollo Clinic - Viman Nagar,private clinic,15,85,Yes,19
+PhysioActive- Speciality Physiotherapy Clinic,private clinic,15,129,No,28
+Dispensary - Dr. B. T. Wani,Dispensary,27,107,Yes,24
+Aster Dental Clinic,private clinic,17,132,No,38
+"'MUPPRA"" Kerala Ayurvedic Treatment Centre, Viman Nagar, Pune",Dispensary,24,114,No,28
+Jeevan Jyot Clinic,private clinic,35,118,Yes,25
+Ashwini Homoeopathic Clinic & Pharmacy,private clinic,17,177,Yes,44
+Yash Clinic,private clinic,23,100,Yes,24
+Vatsalya Women's Clinic,private clinic,22,71,No,20
+The Family Doctor and The Family Pharma Viman Nagar,private clinic,17,156,No,46
+Sai Clinic,private clinic,39,158,No,31
+Trust Clinic,private clinic,27,165,No,44
+Sanjay Gandhi Maternity Home,Government hospital(PMC),20,150,No,31
+Renu Hospital,private hospital,27,149,Yes,35
+"Siddharth Dawakhana, Vishrantwadi",Government hospital(PMC),37,117,Yes,33
+Dr Poonam's ENT Clinic,private clinic,34,85,No,18
+HealthBay Clinic,private clinic,34,195,Yes,45
+Arogya diagnostic clinic,private clinic,26,71,Yes,22
+Spandan Clinic,private clinic,27,115,No,33
+Khrist. Rok Edward Poul Dawakhana,Government hospital(PMC),16,70,Yes,15
+Dr AD Upadhyay's clinic DGCA Class I Medical Examiner,private clinic,35,149,No,35
+Late. Genba Tukaram Mhaske Dawakhana,Government hospital(PMC),38,177,No,38
+Ct Nursing Homenan,private hospital,37,93,Yes,28
