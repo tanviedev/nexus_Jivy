@@ -1,0 +1,5 @@
+timestamp,icu_beds_available,er_beds_available,staff_load
+2026-01-01T10:00:00,2,5,LOW
+2026-01-01T10:05:00,1,3,MEDIUM
+2026-01-01T10:10:00,0,1,HIGH
+2026-01-01T10:15:00,2,4,LOW

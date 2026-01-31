@@ -1,0 +1,12 @@
+{
+    "HIGH": {
+      "spo2": "<90",
+      "heart_rate": ">120",
+      "systolic_bp": "<90"
+    },
+    "MEDIUM": {
+      "spo2": "90-94",
+      "heart_rate": "100-120"
+    }
+  }
+  

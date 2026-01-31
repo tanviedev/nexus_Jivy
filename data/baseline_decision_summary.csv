@@ -1,0 +1,5 @@
+Patient ID,Snapshot Time,Risk Level,Baseline Decision,Reason (Static)
+P001,2026-01-01T10:00:00,LOW,OBSERVE,OBSERVE due to LOW risk at snapshot
+P002,2026-01-01T10:05:00,MEDIUM,PRIORITIZE,PRIORITIZE due to MEDIUM risk at snapshot
+P003,2026-01-01T10:10:00,HIGH,PRIORITIZE,PRIORITIZE due to HIGH risk at snapshot
+P004,2026-01-01T10:15:00,LOW,OBSERVE,OBSERVE due to LOW risk at snapshot
