@@ -2,32 +2,44 @@
 
 def decide(risk_state, resource_state):
     """
-    Decide hospital action based on patient risk and hospital resource state.
+    Decide hospital action based on patient risk state
+    and current hospital resource constraints.
     """
+
     pressure = resource_state["pressure"]
+    icu_full = resource_state.get("icu_full", False)
+
     risk_level = risk_state["risk_level"]
     confidence = risk_state.get("confidence", 1.0)
     reasons = risk_state.get("reasons", [])
-    trends = risk_state.get("trends", {})
 
-    worsening = any(r in reasons for r in [
+    # -------- Detect worsening trends --------
+    worsening_indicators = [
         "worsening_heart_rate",
         "falling_blood_pressure",
         "rising_troponin_trend",
         "rising_ck_mb_trend"
-    ])
+    ]
 
-    # -------- Hard capacity constraint --------
+    worsening = any(r in reasons for r in worsening_indicators)
+
+    # --------------------------------------------------
+    # 1️⃣ HARD CAPACITY CONSTRAINT (GLOBAL OVERRIDE)
+    # --------------------------------------------------
     if pressure >= 0.9:
         return "BLOCK", "Hospital at critical capacity"
 
-    # -------- Critical risk handling --------
+    # --------------------------------------------------
+    # 2️⃣ CRITICAL RISK
+    # --------------------------------------------------
     if risk_level == "CRITICAL":
-        if resource_state["icu_full"]:
-            return "ESCALATE", "Critical risk with ICU unavailable"
+        if icu_full:
+            return "ESCALATE", "Critical risk but ICU unavailable"
         return "PRIORITIZE", "Critical patient prioritized"
 
-    # -------- High risk handling --------
+    # --------------------------------------------------
+    # 3️⃣ HIGH RISK
+    # --------------------------------------------------
     if risk_level == "HIGH":
         if worsening and confidence >= 0.8:
             return "PRIORITIZE", "High risk with worsening trends"
@@ -37,11 +49,15 @@ def decide(risk_state, resource_state):
 
         return "ALLOW", "High risk, resources available"
 
-    # -------- Moderate risk handling --------
+    # --------------------------------------------------
+    # 4️⃣ MODERATE RISK
+    # --------------------------------------------------
     if risk_level == "MODERATE":
         if worsening:
             return "OBSERVE", "Moderate risk with early deterioration"
         return "ALLOW", "Moderate risk stable"
 
-    # -------- Low risk handling --------
+    # --------------------------------------------------
+    # 5️⃣ LOW RISK
+    # --------------------------------------------------
     return "OBSERVE", "Risk stable"

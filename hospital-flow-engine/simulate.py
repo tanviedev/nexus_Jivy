@@ -84,7 +84,6 @@
 
 
 
-
 import pandas as pd
 
 from engine.risk_engine import RiskAgent
@@ -92,13 +91,13 @@ from engine.pressure_engine import compute_pressure
 from engine.decision_engine import decide
 from engine.resource_model import HospitalResourceModel
 
-
-PATIENT_ID = input("Enter patient ID to monitor (e.g., P0001): ").strip()
-
 # -----------------------------
 # Load datasets
 # -----------------------------
 patients = pd.read_csv("data/heart_attack_temporal_5steps.csv")
+
+# 🔴 IMPORTANT: ensure timestamp is datetime
+patients["timestamp"] = pd.to_datetime(patients["timestamp"])
 
 resource_model = HospitalResourceModel(
     static_path="data/hospital_static_extended.csv",
@@ -107,27 +106,13 @@ resource_model = HospitalResourceModel(
 
 risk_agent = RiskAgent(window_size=5)
 
-patients = pd.read_csv("data/heart_attack_temporal_5steps.csv")
-
-# Validate patient ID
-if PATIENT_ID not in patients["patient_id"].unique():
-    raise ValueError(f"Patient ID {PATIENT_ID} not found in dataset.")
-
-# Filter to single patient and sort by time
-patients = patients[patients["patient_id"] == PATIENT_ID]
-patients = patients.sort_values("timestamp")
-
-
-#HOSPITAL_ID = 1  # choose a hospital to simulate
-
 # -----------------------------
 # Simulation loop
 # -----------------------------
 for _, row in patients.iterrows():
     patient = row.to_dict()
 
-    print("Processing", patient["patient_id"])
-
+    print(f"\nProcessing patient {patient['patient_id']}")
 
     # ---- Risk Agent ----
     risk_agent.observe(patient)
@@ -152,9 +137,9 @@ for _, row in patients.iterrows():
     decision, explanation = decide(risk_state, resource_state)
 
     print(
-        f"[{patient['timestamp']}] "
-        f"Patient {patient['patient_id']} | "
+        f"[{patient['timestamp']}] | "
         f"Risk={risk_state['risk_level']} | "
+        f"Score={risk_state['signal_score']} | "
         f"Decision={decision} | "
         f"Why={explanation}"
     )
