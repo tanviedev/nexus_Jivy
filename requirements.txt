@@ -1,25 +1,22 @@
-# JIVY - Python dependencies (backend, hospital_flow_engine, reasoning)
-# Python >=3.10 recommended. Install: pip install -r requirements.txt
-
-# -----------------------------------------------------------------------------
-# Backend API
-# -----------------------------------------------------------------------------
-fastapi>=0.109.0,<1.0
-uvicorn[standard]>=0.27.0
-pydantic>=2.0.0
-
 # -----------------------------------------------------------------------------
 # Hospital flow engine & data
 # -----------------------------------------------------------------------------
 pandas>=2.0.0
 
 # -----------------------------------------------------------------------------
-# Reasoning (LLM / Ollama) - install Ollama and pull model (e.g. mistral) separately
+# Reasoning (LLM / Ollama)
+# Note: Install Ollama system-wide and pull model (e.g., 'ollama pull mistral') separately
 # -----------------------------------------------------------------------------
 langchain-community>=0.2.0
 langchain-core>=0.2.0
-Ollama
+ollama
+
 # -----------------------------------------------------------------------------
-# Deployment / config (optional)
+# Data Validation
+# -----------------------------------------------------------------------------
+pydantic>=2.0.0
+
+# -----------------------------------------------------------------------------
+# Configuration (optional)
 # -----------------------------------------------------------------------------
 python-dotenv>=1.0.0
