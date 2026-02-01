@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Login from "./components/Auth/Login";
-import DoctorDashboard from "./components/Doctor/DoctorDashboard";
-import OpsDashboard from "./components/Ops/OpsDashboard";
-import AdminDashboard from "./components/Admin/AdminDashboard";
+import Login from "./components/Login";
+import DoctorDashboard from "./components/DoctorDashboard";
+import OpsDashboard from "./components/OpsDashboard";
+import AdminDashboard from "./components/AdminDashboard";
 
 function App() {
   return (
