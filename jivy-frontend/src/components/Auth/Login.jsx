@@ -15,7 +15,6 @@ const animationStyles = `
 }
 `;
 
-
 export default function Login() {
   const [mode, setMode] = useState("login");
   const [role, setRole] = useState("doctor");
@@ -23,8 +22,9 @@ export default function Login() {
 
   const handleLogin = () => {
     if (role === "doctor") navigate("/doctor");
-    if (role === "ops") navigate("/ops");
-    if (role === "admin") navigate("/admin");
+    else if (role === "ops") navigate("/ops");
+    else if (role === "admin") navigate("/admin");
+    else navigate("/");
   };
 
   return (
@@ -37,18 +37,11 @@ export default function Login() {
         <div style={styles.card}>
           <h1 style={styles.title}>JIVY</h1>
           <p style={styles.tagline}>
-            When patient care can’t wait, JIVY doesn’t either.
+            When patient care can't wait, JIVY doesn't either.
           </p>
 
           {mode === "login" ? (
             <>
-              <input style={styles.input} placeholder="Username" />
-              <input
-                style={styles.input}
-                placeholder="Password"
-                type="password"
-              />
-
               <select
                 style={styles.input}
                 value={role}

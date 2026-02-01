@@ -1,0 +1,6 @@
+# Backend-only install: use this if you only need the API deps.
+# For full stack (backend + hospital_flow_engine + reasoning), use root:
+#   pip install -r requirements.txt
+fastapi>=0.109.0,<1.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.0.0
